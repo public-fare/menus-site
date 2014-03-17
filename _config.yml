@@ -1,4 +1,0 @@
-name: DH Curation Guide Demo
-pygments: true
-markdown: kramdown
-exclude: [lib, less, README.md]
