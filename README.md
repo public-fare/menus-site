@@ -1,4 +1,4 @@
-Writing About Menus
-===================
+DH Curation Guide Demo
+======================
 
-Content repository for mini-site on research about historic menus.
+Nothing much to see here. Guide content is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).
