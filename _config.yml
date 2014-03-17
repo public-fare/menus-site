@@ -1,4 +1,4 @@
-name: Writing About Menus
+name: DH Curation Guide Demo
 pygments: true
 markdown: kramdown
-exclude: [lib, less]
+exclude: [lib, less, README.md]
