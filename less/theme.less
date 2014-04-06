@@ -52,9 +52,30 @@
     .make-row();
 }
 
-#intro {
+#page-content {
     .make-lg-column(8);
-    .make-lg-column-offset(2);
+    .make-lg-column-offset(2);    
+}
+
+#intro {
+
     .text-center;
     padding-top: 80px;
+}
+
+#highlight {
+    .make-row();
+}
+
+.img-left {
+    .make-lg-column(6);
+    img {
+        .img-responsive;
+        -webkit-transform: rotate(-15deg);
+        overflow: hidden;
+    }
+}
+
+.excerpt {
+    .make-lg-column(6);
 }
