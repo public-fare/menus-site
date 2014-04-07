@@ -5830,6 +5830,11 @@ button.close {
   height: auto;
   -webkit-transform: rotate(-15deg);
 }
+@media (min-width: 768px) and (max-width: 991px) {
+  .img-left img {
+    display: none !important;
+  }
+}
 .excerpt {
   position: relative;
   min-height: 1px;
