@@ -5843,3 +5843,18 @@ button.close {
     width: 50%;
   }
 }
+#backfile {
+  padding-top: 40px;
+}
+#posts-list {
+  padding-left: 0;
+  list-style: none;
+  padding-top: 20px;
+}
+#posts-list li {
+  padding: 10px 8px;
+  border-bottom: 1px solid #eeeeee;
+}
+#posts-list li .date-span {
+  float: right !important;
+}
