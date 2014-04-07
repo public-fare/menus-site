@@ -5829,7 +5829,6 @@ button.close {
   max-width: 100%;
   height: auto;
   -webkit-transform: rotate(-15deg);
-  overflow: hidden;
 }
 .excerpt {
   position: relative;
