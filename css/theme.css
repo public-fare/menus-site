@@ -5828,11 +5828,22 @@ button.close {
   display: block;
   max-width: 100%;
   height: auto;
+  display: none !important;
   -webkit-transform: rotate(-15deg);
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .img-left img {
-    display: none !important;
+    display: block !important;
+  }
+  table.img-left img {
+    display: table;
+  }
+  tr.img-left img {
+    display: table-row !important;
+  }
+  th.img-left img,
+  td.img-left img {
+    display: table-cell !important;
   }
 }
 .excerpt {
