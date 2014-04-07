@@ -5858,3 +5858,32 @@ button.close {
 #posts-list li .date-span {
   float: right !important;
 }
+#about {
+  padding-top: 40px;
+}
+.about-part {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 1200px) {
+  .about-part {
+    float: left;
+    width: 33.33333333333333%;
+  }
+}
+footer {
+  padding-top: 40px;
+  padding-bottom: 60px;
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 1200px) {
+  footer {
+    float: left;
+    width: 100%;
+  }
+}
