@@ -626,7 +626,7 @@ abbr[data-original-title] {
 blockquote {
   padding: 13.5px 27px;
   margin: 0 0 27px;
-  font-size: 14.75px;
+  font-size: 23.75px;
   border-left: 5px solid #eeeeee;
 }
 blockquote p:last-child,
@@ -5828,22 +5828,11 @@ button.close {
   display: block;
   max-width: 100%;
   height: auto;
-  display: none !important;
   -webkit-transform: rotate(-15deg);
 }
-@media (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 767px) {
   .img-left img {
-    display: block !important;
-  }
-  table.img-left img {
-    display: table;
-  }
-  tr.img-left img {
-    display: table-row !important;
-  }
-  th.img-left img,
-  td.img-left img {
-    display: table-cell !important;
+    display: none !important;
   }
 }
 .excerpt {
