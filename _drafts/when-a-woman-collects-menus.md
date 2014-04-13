@@ -3,7 +3,7 @@ title: When a Woman Collects
 layout: default
 ---
 
-# When a Woman Collects Menus <small>Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small>
+# When a Woman Collects Menus <br /><small>Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small>
 
 The collection of historic menus at the New York Public Library (NYPL) was created by a woman named Frank E. Buttolph. From the beginning, she intended the collection to be a research collection. In much of what has been written and documented (and repeated over and over again) about the menu collection, commentators launch into discussions of the collection’s size and richness, pausing momentarily to regret the paucity of information available about its creator. According to this common trope, Buttolph is a “mysterious and passionate figure” [cite: NYPL web site] who led a “quite private life” [cite: Ryley Biblion] about which (regrettably) not much can be known [cite: Federman blog]. Yet in trying to make good on Buttolph’s original intent—that the collection be used for research—and also in trying to curate the digital data set that NYPL has created from this physical collection, we found ourselves unable to accept the historical absence of the collection’s creator.
 
@@ -23,7 +23,7 @@ Evaluating historians’ progress at “writ[ing] women into the history of libr
 
 If the common, easy narratives about Buttolph and the collection are problematic not just for what they get wrong about the woman but also for what they get wrong about the meaning of the resulting collection and data set, what considerations would improve them? As a beginning, we (re)consider her collecting practices, her relationship to the library around her, and her gender as ways to critique the presentation of a “mysterious and passionate Miss Frank E. Buttolph”.
 
-<h4>When Women Acquire</h4>
+#### When Women Acquire
 
 <blockquote><p>When women acquire the collecting mania, they often branch out in the most unexpected directions, and take up what appear to be trivial and foolish specialties.  Sometimes these develop into collections of real value, the more so because no one else thought it worth while to make such collections.</p>
 
@@ -60,7 +60,7 @@ Many of her teaching posts were at schools associated with the Episcopal Church,
 From various sources, it’s apparent that Buttolph lived in same general section of Manhattan, between 14th and 19th streets, never far from the Astor Library, for the entire twenty to thirty years she remained in New York. She did gradually move from the east side (near what is now Beth Israel Hospital) to the west side near the 9th Avenue elevated railway, to a section of Chelsea in which the Depression-era New York City Guide noted, “a large number of brownstones, originally built as private residences, have been converted into lodginghouses.” For an educated, well-traveled, single woman, the Astor Library would have been an attractive local resource and perhaps a natural place to spend her free time.  While it appears she may have been collecting before her formal relationship with the Astor Library began, the details of her engagement with cultural preservation emerges most clearly through the trails of letters in periodicals and in archival materials from the NYPL. 
 
 
-<h4>Buttolph’s Collecting Practices</h4>
+#### Buttolph’s Collecting Practices
 
 When reporters wrote about Buttolph’s collection over the next twenty years, they usually focused on its oddness and its celebrity interest—particularly in the form of royal and political menus.[cite: Menus of Many Lands; Most Interesting Array; Literature of Eating; When Royalty Dines]  In aggregate, these articles seem to frame the collection as frivolous, despite the occasional lip-service to “history” and “posterity.” As a collector, they often present Buttolph as both the driving force in the collection and as a bit eccentric.  A quote from a 1906 article suggests some of the discourse that surrounded the menu collection: 
 
@@ -88,7 +88,8 @@ Simply acquiring menus was not the ultimate goal for Buttolph, she was also inve
 By reading the evidence that Buttolph left about her own work, we can begin to see past the broad stereotypes about collectors that have attached themselves to her. The fact that she volunteered at the NYPL for more than twenty years to do this work demonstrates her personal commitment. However, her approach to that work and the menu collection in particular, was not a personal fetish but an investment in institutional preservation and future research.  
 
 
-<h4>Buttolph in the Library</h4> 
+#### Buttolph in the Library
+
 We can deepen our understanding of Buttolph and her project beyond what she and her correspondents might have thought to note or mention explicitly by considering the library within which the menu collection was created and curated. The twenty-year association between an unmarried middle-class teacher and the still-young New York Public Library is one of the most interesting and suggestive aspects of the menu collection’s and therefore the data set’s provenance. The NYPL has been far more studied than Buttolph and so, in a manner somewhat opposite of the microhistorical, we can read the history of the institution and the library culture it embodied as the means to the end of better understanding her. The milieu of the late nineteeth-century research library—and indeed specific features of the Astor Library and the larger NYPL organization into which it was subsumed—suggest how narratives that position the menu collection as exceptional (and its creator eccentric) are not reflecting simple absences of factual detail. Such narratives about Buttolph and her collection also reflect gendered ways of understanding library history. 
 
 The Astor Library itself is an important character in Buttolph’s personal history. Though the entity formally named “The New York Public Library, Astor, Lenox and Tilden Foundations” came into being as a merger of the Astor and Lenox Libraries and the Tilden Foundation in 1895, the research division of the NYPL, for which Buttolph volunteered, existed as separate physical locations at the site of the Astor and Lenox Libraries until the iconic main library building at 42nd Street and 5th Avenue was opened in 1911. Buttolph’s “career” at NYPL was almost evenly-divided between the Astor Library building in Lafayette Place and the “new” building further uptown. By association, the Astor Library underscores the research-focused nature of the menu collection and Buttolph’s serious intent in creating it. 
@@ -115,7 +116,8 @@ Billings directly supervised book purchases but also emphasized aggressive colle
 
 
 
-<h4>(Miss)ing Histories and the Work of Frank E. Buttolph</h4>
+#### (Miss)ing Histories and the Work of Frank E. Buttolph
+
 In 1921, Frank E. Buttolph’s alcove was emptied out, many of its materials crated and sent off to her, and she was basically dismissed from the library (as a volunteer, she could not be fired).  The reason for this dismissal is not completely clear, but letters from Buttolph and from library staff, patrons, and the director suggest that she had come into increasing personal conflict with the people working around her. The NYPL file also includes charges that, in retrospect, seem trumped up to accelerate her dismissal.  She was charged for instance with stealing books and with using the alcove for non-library collecting.  Buttolph denied these charges, proclaiming repeatedly that her work was always for the library and for future historians. In 1924, she died of pneumonia at Bellevue Hospital.
 
 This seems like a sad ending. The surviving records and letters about the end of her association with the NYPL might seem to corroborate all the narratives of eccentricity and mania that circulated and have continued to circulate about Buttolph. She did not like the whistling of the pages who fetched books from the stacks; she chided people about how they were caring for books; she called the police on children playing in the park next to the library. However, the fact that Buttolph could lose her temper and complained about the practices of her fellow humans does not undermine her asiduous and important work. It does not make her collecting less professional or her collection less a research collection (just as it would not were she a sometimes unpleasant man).  In some ways, the kinds of complaints she registers, throughout the two decades she is at the NYPL, to her coworkers, to editors, to collection contributors, reflect her investment in order and precision and, often, in getting the historical record right and having full and broad preservation of menus as evidence for future scholars. The point of our work to expose the stereotypes in these narratives, to restore some context to them, and to retell them--not to make Buttolph a saint, but to understand how her work and her life have been framed in order to better understand the meaning we can make of her collection. 
