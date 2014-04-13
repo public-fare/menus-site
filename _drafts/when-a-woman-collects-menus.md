@@ -23,7 +23,8 @@ Evaluating historians’ progress at “writ[ing] women into the history of libr
 
 If the common, easy narratives about Buttolph and the collection are problematic not just for what they get wrong about the woman but also for what they get wrong about the meaning of the resulting collection and data set, what considerations would improve them? As a beginning, we (re)consider her collecting practices, her relationship to the library around her, and her gender as ways to critique the presentation of a “mysterious and passionate Miss Frank E. Buttolph”.
 
-#### When Women Acquire{:.section-head} {#acquire}
+#### When Women Acquire {#acquire}
+{: class="section-head"}
 
 > When women acquire the collecting mania, they often branch out in the most unexpected directions, and take up what appear to be trivial and foolish specialties.  Sometimes these develop into collections of real value, the more so because no one else thought it worth while to make such collections.
 >
@@ -45,7 +46,8 @@ The library’s institutional records add little information about the collectio
 
 Buttolph was mentioned only twice in the library’s own regularly-published bulletins and annual reports. The first (and most extensive) mention, in *The Bulletin of the New York Public Library* published in January 1907, is a description of her collection included in a summary of the previous half-year’s activities of the Reference Department. This notice refers simply to “the collection of menus, formed largely by Miss Frank E. Buttolph” as though it were part of the library’s collection and not an outside gift and without giving any indication that Buttolph was not a member of the library staff. However, when Buttolph is mentioned again, in an unusually long edition of the Director’s annual report (for calendar year 1909), this much briefer mention appears in a section on “Purchases and Gifts”. The difference may be simple inconsistency—it was surely difficult to keep straight the details of various collections year over year in the context of reports with multiple authors. Combine this discrepancy with the oddities of phrasing in Buttolph’s letter (her reference to “fil[ing] a bill of fare at the library”), in the New York Times reporter’s story (that Buttolph had “turned in” over nine-hundred menus), and in the library’s surviving documentary record of the collection’s origin, and all these seem markers of a more unusual arrangement than donor and gift. The slipperiness of details about how the collection started reflect the ambiguity of Buttolph’s position.
 
-#### "Is there not some place in which my knowledge … could be utilized?"{:.section-head} {#knowledge}
+#### "Is there not some place in which my knowledge … could be utilized?" {#knowledge}
+{: class="section-head"}
 
 At the end of January 1900, about two weeks before her proposal to the library trustees to make a “donation” of the menu collection, Buttolph wrote to NYPL Director Billings to inquire about the possibility of official employment. “I see a great many women employed at the Astor Library. Is there not some place in which my knowledge of books, countries and languages could be utilized in a manner remunerative to myself.” We have not been able to find any record of Billings’ reply (if he made one) and Buttolph never did gain a professional position at the library. However, this brief application does introduce a glimpse into her biography at the moment she was beginning her most active association with NYPL. 
 
@@ -60,7 +62,8 @@ Many of her teaching posts were at schools associated with the Episcopal Church,
 From various sources, it’s apparent that Buttolph lived in same general section of Manhattan, between 14th and 19th streets, never far from the Astor Library, for the entire twenty to thirty years she remained in New York. She did gradually move from the east side (near what is now Beth Israel Hospital) to the west side near the 9th Avenue elevated railway, to a section of Chelsea in which the Depression-era New York City Guide noted, “a large number of brownstones, originally built as private residences, have been converted into lodginghouses.” For an educated, well-traveled, single woman, the Astor Library would have been an attractive local resource and perhaps a natural place to spend her free time.  While it appears she may have been collecting before her formal relationship with the Astor Library began, the details of her engagement with cultural preservation emerges most clearly through the trails of letters in periodicals and in archival materials from the NYPL. 
 
 
-#### Buttolph’s Collecting Practices{:.section-head} {#collecting}
+#### Buttolph’s Collecting Practices {#collecting}
+{: class="section-head"}
 
 When reporters wrote about Buttolph’s collection over the next twenty years, they usually focused on its oddness and its celebrity interest—particularly in the form of royal and political menus.[cite: Menus of Many Lands; Most Interesting Array; Literature of Eating; When Royalty Dines]  In aggregate, these articles seem to frame the collection as frivolous, despite the occasional lip-service to “history” and “posterity.” As a collector, they often present Buttolph as both the driving force in the collection and as a bit eccentric.  A quote from a 1906 article suggests some of the discourse that surrounded the menu collection: 
 
@@ -88,7 +91,8 @@ Simply acquiring menus was not the ultimate goal for Buttolph, she was also inve
 By reading the evidence that Buttolph left about her own work, we can begin to see past the broad stereotypes about collectors that have attached themselves to her. The fact that she volunteered at the NYPL for more than twenty years to do this work demonstrates her personal commitment. However, her approach to that work and the menu collection in particular, was not a personal fetish but an investment in institutional preservation and future research.  
 
 
-#### Buttolph in the Library{:.section-head} {#library}
+#### Buttolph in the Library {#library}
+{: class="section-head"}
 
 We can deepen our understanding of Buttolph and her project beyond what she and her correspondents might have thought to note or mention explicitly by considering the library within which the menu collection was created and curated. The twenty-year association between an unmarried middle-class teacher and the still-young New York Public Library is one of the most interesting and suggestive aspects of the menu collection’s and therefore the data set’s provenance. The NYPL has been far more studied than Buttolph and so, in a manner somewhat opposite of the microhistorical, we can read the history of the institution and the library culture it embodied as the means to the end of better understanding her. The milieu of the late nineteeth-century research library—and indeed specific features of the Astor Library and the larger NYPL organization into which it was subsumed—suggest how narratives that position the menu collection as exceptional (and its creator eccentric) are not reflecting simple absences of factual detail. Such narratives about Buttolph and her collection also reflect gendered ways of understanding library history. 
 
@@ -116,7 +120,8 @@ Billings directly supervised book purchases but also emphasized aggressive colle
 
 
 
-#### (Miss)ing Histories and the Work of Frank E. Buttolph{:.section-head} {#missing}
+#### (Miss)ing Histories and the Work of Frank E. Buttolph {#missing}
+{: class="section-head"}
 
 In 1921, Frank E. Buttolph’s alcove was emptied out, many of its materials crated and sent off to her, and she was basically dismissed from the library (as a volunteer, she could not be fired).  The reason for this dismissal is not completely clear, but letters from Buttolph and from library staff, patrons, and the director suggest that she had come into increasing personal conflict with the people working around her. The NYPL file also includes charges that, in retrospect, seem trumped up to accelerate her dismissal.  She was charged for instance with stealing books and with using the alcove for non-library collecting.  Buttolph denied these charges, proclaiming repeatedly that her work was always for the library and for future historians. In 1924, she died of pneumonia at Bellevue Hospital.
 
