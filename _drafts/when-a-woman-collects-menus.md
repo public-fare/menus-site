@@ -1,6 +1,6 @@
 ---
 title: When a Woman Collects
-layout: default
+layout: article
 ---
 
 ## When a Woman Collects Menus <br /><small>Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small>
