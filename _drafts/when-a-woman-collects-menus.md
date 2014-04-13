@@ -133,5 +133,7 @@ As Clare Beck traces in *The New Woman as Librarian: The Career of Adelaide Hass
 
 Buttolph was and is, like all humans, not fully legible. However, her collection is far from the idiosyncratic hobby project of an eccentric woman. Instead it reflects the rise of research collecting in libraries during the late nineteenth and early twentieth century and with that an investment is broad, publicly-facing long term use and historical value. The ways she obtained and maintained her collection—her aggressive collecting and preservation strategies—are part and parcel with the creation of research collections, particularly of primary source materials, in libraries of the early twentieth century.  
 
-In our next essay, we take up some of these notions of a public research collection as we examine the contours of the menu collection in more detail, relying on the crowd-sourced information from the What’s On the Menu project and the cataloging information that Buttolph included as she herself crowd-sourced and curated the physical collection. 
+<div class="preview-next">
+In our next essay, we take up some of these notions of a public research collection as we examine the contours of the menu collection in more detail, relying on the crowd-sourced information from the *What’s On the Menu* project and the cataloging information that Buttolph included as she herself crowd-sourced and curated the physical collection.
+</div> 
 
