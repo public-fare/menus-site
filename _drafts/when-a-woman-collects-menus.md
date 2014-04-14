@@ -5,7 +5,7 @@ layout: article
 
 ## When a Woman Collects Menus <br /><small>Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small> {#post-title}
 
-The collection of historic menus at the New York Public Library (NYPL) was created by a woman named Frank E. Buttolph. From the beginning, she intended the collection to be a research collection. In much of what has been written and documented (and repeated over and over again) about the menu collection, commentators launch into discussions of the collection’s size and richness, pausing momentarily to regret the paucity of information available about its creator. According to this common trope, Buttolph is a “mysterious and passionate figure”<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> who led a “quite private life” [cite: Ryley Biblion Alison Ryley, “The Prime of Miss Frank E. Buttolph: Notes Toward a Menu History of New York City,” Biblion: The Bulletin of the New York Public Library, Fall 1998, PAGE NUMBER ] about which (regrettably) not much can be known [cite: Federman blog Rebecca Federman, “The Queen B: Miss Buttolph and Her Menus,” What’s On the Menu, Food For Thought, NYPL Labs blog, April 28, 2011, http://www.nypl.org/blog/2011/04/28/queen-b-miss-buttolph-and-her-menus.]. Yet in trying to make good on Buttolph’s original intent—that the collection be used for research—and also in trying to curate the digital data set that NYPL has created from this physical collection, we found ourselves unable to accept the historical absence of the collection’s creator.
+The collection of historic menus at the New York Public Library (NYPL) was created by a woman named Frank E. Buttolph. From the beginning, she intended the collection to be a research collection. In much of what has been written and documented (and repeated over and over again) about the menu collection, commentators launch into discussions of the collection’s size and richness, pausing momentarily to regret the paucity of information available about its creator. According to this common trope, Buttolph is a “mysterious and passionate figure”<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> who led a “quite private life” <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> about which (regrettably) not much can be known <sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>. Yet in trying to make good on Buttolph’s original intent—that the collection be used for research—and also in trying to curate the digital data set that NYPL has created from this physical collection, we found ourselves unable to accept the historical absence of the collection’s creator.
 
 We wanted to understand the provenance of the menus data and, therefore, needed to know how the physical collection that underpins the digital data came to be. To maintain, or even improve, “the interest and usefulness” of the menus data for humanities scholarship [cite: Cragin et. al ], we want to situate the collection in local and historical context. To achieve this, we needed to understand more about Buttolph herself. The more we researched Buttolph’s life, the more we found ourselves compelled to tell a better and fuller story about her and her work as collector in the early twentieth century.  
 
@@ -141,6 +141,15 @@ In our next essay, we take up some of these notions of a public research collect
     <ol>
         <li class="footnote" id="fn:1">
             <p>“Miss Frank E. Buttolph American Menu Collection, 1851-1930,” New York Public Library Collection Guides, http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?col_id=159. <a href="#fnref:1" title="return to article">&#8617;</a></p>
+        </li>
+    </ol>
+    <ol>
+        <li class="footnote" id="fn:2">
+            <p>Alison Ryley, “The Prime of Miss Frank E. Buttolph: Notes Toward a Menu History of New York City,” <em>Biblion: The Bulletin of the New York Public Library</em>, Fall 1998, PAGE NUMBER ]<a href="#fnref:2" title="return to article">&#8617;</a></p>
+        </li>
+    </ol><ol>
+        <li class="footnote" id="fn:3">
+            <p>Rebecca Federman, “The Queen B: Miss Buttolph and Her Menus,” What’s On the Menu, Food For Thought, NYPL Labs blog, April 28, 2011, http://www.nypl.org/blog/2011/04/28/queen-b-miss-buttolph-and-her-menus.]<a href="#fnref:3" title="return to article">&#8617;</a></p>
         </li>
     </ol>
 </div>
