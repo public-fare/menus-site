@@ -7,19 +7,19 @@ layout: article
 
 The collection of historic menus at the New York Public Library (NYPL) was created by a woman named Frank E. Buttolph. From the beginning, she intended the collection to be a research collection. In much of what has been written and documented (and repeated over and over again) about the menu collection, commentators launch into discussions of the collection’s size and richness, pausing momentarily to regret the paucity of information available about its creator. According to this common trope, Buttolph is a “mysterious and passionate figure”<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> who led a “quite private life” <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> about which (regrettably) not much can be known <sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>. Yet in trying to make good on Buttolph’s original intent—that the collection be used for research—and also in trying to curate the digital data set that NYPL has created from this physical collection, we found ourselves unable to accept the historical absence of the collection’s creator.
 
-We wanted to understand the provenance of the menus data and, therefore, needed to know how the physical collection that underpins the digital data came to be. To maintain, or even improve, “the interest and usefulness” of the menus data for humanities scholarship [cite: Cragin et. al ], we want to situate the collection in local and historical context. To achieve this, we needed to understand more about Buttolph herself. The more we researched Buttolph’s life, the more we found ourselves compelled to tell a better and fuller story about her and her work as collector in the early twentieth century.  
+We wanted to understand the provenance of the menus data and, therefore, needed to know how the physical collection that underpins the digital data came to be. To maintain, or even improve, “the interest and usefulness” of the menus data for humanities scholarship, we want to situate the collection in local and historical context.<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> To achieve this, we needed to understand more about Buttolph herself. The more we researched Buttolph’s life, the more we found ourselves compelled to tell a better and fuller story about her and her work as collector in the early twentieth century.  
 
 The details of Buttolph's life are not as unknowable as we had been led to believe. A fairly sturdy outline can be assembled from surviving documentary sources—work made easier, no doubt, by the growth of digitized collections available for full-text searching. Yet having more of “the facts” about Buttolph at our disposal paradoxically increased the challenge of doing research with her collection. We were prepared to find that aspects of Buttolph’s personal history had perhaps overtly shaped which menus she collected—either through access (to particular strata of society versus others) or through enthusiasm (for particular types of menus). To some extent, this is the case, but the interconnections between the life and the collection—and now its descendant, the data set—are less overt and more interesting. 
 
 Our research pushes back against the most oft-repeated stories about the historic menu collection and its creator. These brief narratives emphasize the eccentricity of the menu collecting project or frame it as a personal obsession, and present Buttolph as a lucky amateur and an enigmatic spinster. Instead of the personal project of an amateur collector, which happened, by good fortune, to become folded into the collections of the New York Public Library, we now understand this collection as a research collection built by a woman invested in cultural preservation and public knowledge-building. We can see the menus collection as the contribution of a woman whose work was in sync with the project of the larger institution around her during one of the library’s most diverse and active periods of collection building. Indeed, finding out more about Buttolph suggests that what is mysterious here is not her biography but the prevailing representation that casts her life as mysterious and not profitable or interesting to investigate further. 
 
-Once we focused on this more interesting story, we had to grapple self-consciously with the challenges of how to make sense of this woman, her work, and the data that derives from that work. As we researched Buttolph, we found ourselves asking questions about what it meant to tell her story. We faced what historian Jill Lepore calls the “tricky work” of writing about people’s lives.[cite: Jill Lepore, “Historians Who Love Too Much: Reflections on Microhistory and Biography,” The Journal of American History 88.1 (June 2001): 129-144.]  In the case of Buttolph’s story, the challenges stem both from records which (while not so barren as suggested) must still be counted slender and also from the awkward fit between the picture of Buttolph we can develop and traditional “Great Man” or even Great Woman notions of biographical subjects [cite: Caine].
+Once we focused on this more interesting story, we had to grapple self-consciously with the challenges of how to make sense of this woman, her work, and the data that derives from that work. As we researched Buttolph, we found ourselves asking questions about what it meant to tell her story. We faced what historian Jill Lepore calls the “tricky work” of writing about people’s lives.<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup> In the case of Buttolph’s story, the challenges stem both from records which (while not so barren as suggested) must still be counted slender and also from the awkward fit between the picture of Buttolph we can develop and traditional “Great Man” or even Great Woman notions of biographical subjects.<sup id="fnref:6"><a href="#fn:6" rel="footnote">6</a></sup>
  
-In her essay in *The Journal of American History*, Lepore makes a distinction between different types of writing about people’s lives based on the aims of each type. Writers can “seek to profile an individual and recapitulate a life story,” in order that readers might know the person better. Or, they can “address themselves to solving small mysteries about a person’s life as a means to exploring the culture” [cite: Lepore]. Researching Buttolph’s life had the built-in dramatic interest that motivates not only scholars but also genealogists and family historians—“tracing [an] elusive character through slender records,” celebrating each new crumb or cache of documentary evidence. Every discovery of a detail about Buttolph seemed to invest us in a project of recovering her personal story. Yet what should we make of one (incomplete) life story? 
+In her essay in *The Journal of American History*, Lepore makes a distinction between different types of writing about people’s lives based on the aims of each type. Writers can “seek to profile an individual and recapitulate a life story,” in order that readers might know the person better. Or, they can “address themselves to solving small mysteries about a person’s life as a means to exploring the culture.”<sup id="fnref:7"><a href="#fn:6" rel="footnote">7</a></sup> Researching Buttolph’s life had the built-in dramatic interest that motivates not only scholars but also genealogists and family historians—“tracing [an] elusive character through slender records,” celebrating each new crumb or cache of documentary evidence. Every discovery of a detail about Buttolph seemed to invest us in a project of recovering her personal story. Yet what should we make of one (incomplete) life story? 
 
 We also want to understand Buttolph’s life as a way of better curating the data set built from her menu collection. When placed in historical context, the tension between exploring Buttolph’s life story for itself or for what it can tell us carries a specific charge. We suspect that the lack of attention paid to Buttolph’s life comes not only from the specific circumstances of that life but also from the wider culture in which she lived (and in which we still live). That is to say: it matters that Buttolph was a woman.
 
-Evaluating historians’ progress at “writ[ing] women into the history of librarianship,” Suzanne Hildenbrand found three kinds of attempts [cite: Hildenbrand Suzanne Hildenbrand, "Some Theoretical Considerations of Women in Library History," The Journal of Library History 18.4 (1983): 382-390. ]. As summarized by Phyllis Dain, these approaches include: 1) “compensatory history that rescues women from obscurity”; 2) “delineation of a separate women’s culture with its own validity”; and 3) “the study of women in history, interacting with men and involved in the dominant patriarchal culture” [cite: Dain  Phyllis Dain, "Women's Studies in American Library History: Some Critical Reflections," The Journal of Library History 18.4 (1983): 450-463 PAGE NUMBER?]. The thrill of the historical chase, the excitement of “discovery”, the pleasing sense of fairness might incline us toward a project of rescuing Buttolph, the individual, from obscurity. However, it is something more like the third kind of analysis that is integral to the project of using the menus data to produce new knowledge: acknowledging her gender as a significant factor for the way it helps us to account for “the systematic ways in which sex differences cut through society and culture and [confer] inequality upon women” [cite: Canning, Scott]. And here is the rub that makes this a project of humanities data curation. The interpretive strategies that comprise humanities research have been developed to give purchase on questions just like these.
+Evaluating historians’ progress at “writ[ing] women into the history of librarianship,” Suzanne Hildenbrand found three kinds of attempts.<sup id="fnref:8"><a href="#fn:8" rel="footnote">8</a></sup>  As summarized by Phyllis Dain, these approaches include: 1) “compensatory history that rescues women from obscurity”; 2) “delineation of a separate women’s culture with its own validity”; and 3) “the study of women in history, interacting with men and involved in the dominant patriarchal culture.”<sup id="fnref:9"><a href="#fn:9" rel="footnote">9</a></sup> The thrill of the historical chase, the excitement of “discovery”, the pleasing sense of fairness might incline us toward a project of rescuing Buttolph, the individual, from obscurity. However, it is something more like the third kind of analysis that is integral to the project of using the menus data to produce new knowledge: acknowledging her gender as a significant factor for the way it helps us to account for “the systematic ways in which sex differences cut through society and culture and [confer] inequality upon women.”<sup id="fnref:10"><a href="#fn:10" rel="footnote">10</a></sup>  And here is the rub that makes this a project of humanities data curation. The interpretive strategies that comprise humanities research have been developed to give purchase on questions just like these.
 
 If the common, easy narratives about Buttolph and the collection are problematic not just for what they get wrong about the woman but also for what they get wrong about the meaning of the resulting collection and data set, what considerations would improve them? As a beginning, we (re)consider her collecting practices, her relationship to the library around her, and her gender as ways to critique the presentation of a “mysterious and passionate Miss Frank E. Buttolph”.
 
@@ -30,9 +30,9 @@ If the common, easy narratives about Buttolph and the collection are problematic
 >
 > It was a fairy-tale queen, was it not, who was so wrapped up in her collection of buttonholes?  We thought her very silly in the fairy-tale, but we appreciate her now as the patron saint of all museums of domestic art.
 >
-> When Miss Frank Buttolph began to collect menu cards and bills of fare, no one thought of it as anything better than a rather tiresome freak, on which a vast amount of energy was being wasted that might have been expended better. [cite: Literary Collector  "Notes," The Literary Collector: A Magazine of Booklore and Bibliography 9-10 (1905), eds. Annie Dennis and Frederick C. Bursch: 107.  ]
+> When Miss Frank Buttolph began to collect menu cards and bills of fare, no one thought of it as anything better than a rather tiresome freak, on which a vast amount of energy was being wasted that might have been expended better.<sup id="fnref:11"><a href="#fn:11" rel="footnote">11</a></sup>
 
-The writer of the *The Literary Collector* magazine’s March 1905 “Notes” section presents “Miss Frank Buttolph” as an amateur, eccentric, a woman obsessed with a bizarre collection. This representation is not unusual, for Buttolph or many other woman collectors of the time. [Beth Muellner, “The Empress Elisabeth of Austria and Her ‘Untidy’ Collection,” Women’s Studies, 39 (2010): 536–561; J. Samaine Lockwood, “Shopping for the Nation: Women's China Collecting in Late-Nineteenth-Century New England,” The New England Quarterly 81.1 (2008): 63-90; “The Gender of Collecting,” Museums, Objects, and Collections] Over the course of the final lengthy paragraph of this brief notice, *The Literary Collector*’s anonymous writer seems to be won over to the value of Buttolph’s collection. “When she began to get menus in all languages from all countries, [the collection] grew a bit interesting to the scoffer,” the writer avers. In the end, the writer mostly concedes that the collection will be “invaluable to the late twentieth or twenty-first century writer of the history of the nineteenth-century civilization,” without fully subscribing to this conclusion or recanting the gendered caricature which opened the piece. “For the historian of the future has Miss Buttolph consciously been making this collection, and she feels sure of his appreciation” (emphasis added). In many ways, this note in the Literary Collector encapsulates how Buttolph and her work have been viewed. The biting acerbity of this depiction makes plain stereotypes that surround Buttolph, often subtly, into the twenty-first century. 
+The writer of the *The Literary Collector* magazine’s March 1905 “Notes” section presents “Miss Frank Buttolph” as an amateur, eccentric, a woman obsessed with a bizarre collection. This representation is not unusual, for Buttolph or many other woman collectors of the time.<sup id="fnref:12"><a href="#fn:12" rel="footnote">12</a></sup>  Over the course of the final lengthy paragraph of this brief notice, *The Literary Collector*’s anonymous writer seems to be won over to the value of Buttolph’s collection. “When she began to get menus in all languages from all countries, [the collection] grew a bit interesting to the scoffer,” the writer avers. In the end, the writer mostly concedes that the collection will be “invaluable to the late twentieth or twenty-first century writer of the history of the nineteenth-century civilization,” without fully subscribing to this conclusion or recanting the gendered caricature which opened the piece. “For the historian of the future has Miss Buttolph consciously been making this collection, and she feels sure of his appreciation” (emphasis added). In many ways, this note in the Literary Collector encapsulates how Buttolph and her work have been viewed. The biting acerbity of this depiction makes plain stereotypes that surround Buttolph, often subtly, into the twenty-first century. 
 
 By telling the story of Frank E. Buttolph’s collection—yet again—and telling the story of those stories told about her, we hope to provide new contexts for understanding her work as a collector. We begin with stories about the origin of the collection.  When Buttolph and her collection were featured in newspaper articles, journalists often retell a story about how Buttolph’s awareness of the changing century—specifically her first sight of the year “1900” printed on the menu of a restaurant she visited in Union Square on New Year’s Day—inspired her project of collecting for the Library.  Buttolph herself recounted this story in a letter to the New York Public Library’s board of trustees:
 
@@ -142,15 +142,69 @@ In our next essay, we take up some of these notions of a public research collect
         <li class="footnote" id="fn:1">
             <p>“Miss Frank E. Buttolph American Menu Collection, 1851-1930,” New York Public Library Collection Guides, http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?col_id=159. <a href="#fnref:1" title="return to article">&#8617;</a></p>
         </li>
-    </ol>
-    <ol>
+    
         <li class="footnote" id="fn:2">
             <p>Alison Ryley, “The Prime of Miss Frank E. Buttolph: Notes Toward a Menu History of New York City,” <em>Biblion: The Bulletin of the New York Public Library</em>, Fall 1998, PAGE NUMBER ]<a href="#fnref:2" title="return to article">&#8617;</a></p>
         </li>
-    </ol><ol>
+   
         <li class="footnote" id="fn:3">
             <p>Rebecca Federman, “The Queen B: Miss Buttolph and Her Menus,” What’s On the Menu, Food For Thought, NYPL Labs blog, April 28, 2011, http://www.nypl.org/blog/2011/04/28/queen-b-miss-buttolph-and-her-menus.]<a href="#fnref:3" title="return to article">&#8617;</a></p>
         </li>
+         <li class="footnote" id="fn:4">
+            <p> [cite: Cragin et. al ]<a href="#fnref:4" title="return to article">&#8617;</a></p>
+        </li>
+    
+        <li class="footnote" id="fn:5">
+            <p>Jill Lepore, “Historians Who Love Too Much: Reflections on Microhistory and Biography,” The Journal of American History 88.1 (June 2001): 129-144. <a href="#fnref:5" title="return to article">&#8617;</a></p>
+        </li>
+   
+        <li class="footnote" id="fn:6">
+            <p>Cite: Caine<a href="#fnref:6" title="return to article">&#8617;</a></p>
+        </li>
+        <li class="footnote" id="fn:7">
+            <p> [cite: Cragin et. al ]<a href="#fnref:4" title="return to article">&#8617;</a></p>
+        </li><li class="footnote" id="fn:8">
+            <p>Suzanne Hildenbrand, "Some Theoretical Considerations of Women in Library History," <em>The Journal of Library History</em> 18.4 (1983): 382-390.<a href="#fnref:8" title="return to article">&#8617;</a></p>
+        </li><li class="footnote" id="fn:9">
+            <p>Phyllis Dain, "Women's Studies in American Library History: Some Critical Reflections," <em>The Journal of Library History</em> 18.4 (1983): 450-463 PAGE NUMBER?. <a href="#fnref:9" title="return to article">&#8617;</a></p>
+        </li><li class="footnote" id="fn:10">
+            <p> CITE: Canning, Scott<a href="#fnref:10" title="return to article">&#8617;</a></p>
+        </li><li class="footnote" id="fn:11">
+            <p>"Notes," <em>The Literary Collector: A Magazine of Booklore and Bibliography</em> 9-10 (1905), eds. Annie Dennis Bursch and Frederick C. Bursch: 107.<a href="#fnref:11" title="return to article">&#8617;</a></p>
+        </li><li class="footnote" id="fn:12">
+            <p>Beth Muellner, “The Empress Elisabeth of Austria and Her ‘Untidy’ Collection,” <em>Women’s Studies</em> 39 (2010): 536–561; J. Samaine Lockwood, “Shopping for the Nation: Women's China Collecting in Late-Nineteenth-Century New England,” <em>The New England Quarterly<em> 81.1 (2008): 63-90; “The Gender of Collecting,” <em>Museums, Objects, and Collections</em><a href="#fnref:12" title="return to article">&#8617;</a></p>
+        </li><li class="footnote" id="fn:13">
+            <p> [cite: Cragin et. al ]<a href="#fnref:13" title="return to article">&#8617;</a></p>
+        </li>
+        <li class="footnote" id="fn:14">
+            <p> [cite: Cragin et. al ]<a href="#fnref:14" title="return to article">&#8617;</a></p>
+            </li>
+        <li class="footnote" id="fn:15">
+            <p> [cite: Cragin et. al ]<a href="#fnref:15" title="return to article">&#8617;</a></p>
+        </li>
+           <li class="footnote" id="fn:16">
+            <p> [cite: Cragin et. al ]<a href="#fnref:16" title="return to article">&#8617;</a></p>
+        </li>
+           <li class="footnote" id="fn:17">
+            <p> [cite: Cragin et. al ]<a href="#fnref:17" title="return to article">&#8617;</a></p>
+        </li>
+           <li class="footnote" id="fn:18">
+            <p> [cite: Cragin et. al ]<a href="#fnref:18" title="return to article">&#8617;</a></p>
+        </li>
+           <li class="footnote" id="fn:19">
+            <p> [cite: Cragin et. al ]<a href="#fnref:19" title="return to article">&#8617;</a></p>
+        </li>
+           <li class="footnote" id="fn:20">
+            <p> [cite: Cragin et. al ]<a href="#fnref:20" title="return to article">&#8617;</a></p>
+        </li>
+           <li class="footnote" id="fn:21">
+            <p> [cite: Cragin et. al ]<a href="#fnref:21" title="return to article">&#8617;</a></p>
+        </li>
+           <li class="footnote" id="fn:22">
+            <p> [cite: Cragin et. al ]<a href="#fnref:22" title="return to article">&#8617;</a></p>
+        </li>
     </ol>
+    
+   
 </div>
 
