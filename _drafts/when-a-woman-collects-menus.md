@@ -60,7 +60,7 @@ Buttolph was mentioned only twice in the library’s own regularly-published bul
 At the end of January 1900, about two weeks before her proposal to the library trustees to make a “donation” of the menu collection, Buttolph wrote to NYPL Director Billings to inquire about the possibility of official employment. “I see a great many women employed at the Astor Library. Is there not some place in which my knowledge of books, countries and languages could be utilized in a manner remunerative to myself?” We have not been able to find any record of Billings’ reply (if he made one) and Buttolph never did gain a professional position at the library. However, this brief application does introduce a glimpse into her biography at the moment she was beginning her most active association with NYPL. 
 
 <div class="article-img">
-<img src="{{ site.s3 }}when-a-woman-collects-menus/branch_library.jpg" alt="Interior of a branch library">
+<img src="{{ site.s3 }}when-a-woman-collects-menus/branch_library.jpeg" alt="Interior of a branch library">
 </div>
 
 One significant distinction between Buttolph and the “great many” women employed at the library may have been her age. When she made her request, Buttolph was fifty-six years old (only six years younger than Billings himself).
