@@ -185,7 +185,7 @@ Buttolph was and is, like all humans, not fully legible. However, her collection
 In our next essay, we take up some of these notions of a public research collection as we examine the contours of the menu collection in more detail, relying on the crowd-sourced information from the <em>What’s On the Menu?</em> project and the cataloging information that Buttolph included as she herself crowd-sourced and curated the physical collection.
 </div> 
 
-<div class="footnotes">
+<div class="footnotes" id="notes-when-a-woman-collects">
     <ol>
         <li class="footnote" id="fn:1">
             <p>“Miss Frank E. Buttolph American Menu Collection, 1851-1930,” New York Public Library Collection Guides, http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?col_id=159. <a href="#fnref:1" title="return to article">&#8617;</a></p>
