@@ -4,3 +4,6 @@
 {% for author in page.authors %}
 <meta name="twitter:creator" content="{{ author.handle }}">
 {% endfor %}
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.lede }}">
+<meta name="twitter:image" content="{{ page.thumbnail }}">
