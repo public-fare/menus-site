@@ -1,7 +1,8 @@
 $(document).ready(function(){
     $.bigfoot();
+    var headings = $(".section-head")
     $.scrollDepth({
-        elements: ['#acquire', '#knowledge', '#collecting', '#library', '#missing', '#notes-when-a-woman-collects'],
+        elements: headings,
         userTiming: false
     });
 });
