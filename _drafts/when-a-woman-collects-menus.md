@@ -21,7 +21,7 @@ pubdate: 2014-04-16
             <li><span itemprop="author">{{ author.name }}</span>, <a href="https://twitter.com/{{ author.handle}}">@{{ author.handle}}</a></li>
         {% endfor %}
         </ul>
-        <p itemprop="datePublished">{{ page.pubdate | date: "%B %e %Y" }}</p>
+        <p itemprop="datePublished">{{ page.pubdate | date: "%B %e, %Y" }}</p>
     </div>
 </div>
 
