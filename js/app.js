@@ -1,5 +1,7 @@
 $(document).ready(function(){
-    $.bigfoot();
+    $.bigfoot({
+        positionContent: true
+    });
 
     var targetEl = $("#article-navbar-collapse-1 > ul");
     var headings = $(".section-head");
