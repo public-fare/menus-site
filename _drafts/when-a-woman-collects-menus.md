@@ -10,16 +10,18 @@ lede: The collection of historic menus at the New York Public Library (NYPL) was
 thumbnail: https://s3.amazonaws.com/curatingmenus/when-a-woman-collects-menus/buttolph_portrait_thumbnail.png
 ---
 <div itemscope itemtype="http://schema.org/Article">
-<h2 itemprop="name">When a Woman Collects Menus <br />
-<small itemprop="alternativeHeadline">Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small>
-</h2>
+    <h2 itemprop="name">When a Woman Collects Menus <br />
+    <small itemprop="alternativeHeadline">Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small>
+    </h2>
 
-<ul class="post-authors">
-{% for author in page.authors %}
-    <li><span itemprop="author">{{ author.name }}</span>, <a href="https://twitter.com/{{ author.handle}}">@{{ author.handle}}</a></li>
-{% endfor %}
-</ul>
-<p itemprop="datePublished">{{ page.date | date: "%B %e %Y" }}</p>
+    <div class="post-metadata">
+        <ul class="post-authors">
+        {% for author in page.authors %}
+            <li><span itemprop="author">{{ author.name }}</span>, <a href="https://twitter.com/{{ author.handle}}">@{{ author.handle}}</a></li>
+        {% endfor %}
+        </ul>
+        <p itemprop="datePublished">{{ page.date | date: "%B %e %Y" }}</p>
+    </div>
 </div>
 
 The collection of historic menus at the New York Public Library (NYPL) was created by a woman named Frank E. Buttolph. From the beginning, she intended the collection to be a research collection. In much of what has been written and documented (and repeated over and over again) about the menu collection, commentators launch into discussions of the collection’s size and richness, pausing momentarily to regret the paucity of information available about its creator. According to this common trope, Buttolph is a “mysterious and passionate figure”<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> who led a “quite private life” <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> about which (regrettably) not much can be known <sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>. Yet in trying to make good on Buttolph’s original intent—that the collection be used for research—and also in trying to curate the digital data set that NYPL has created from this physical collection, we found ourselves unable to accept the historical absence of the collection’s creator.
