@@ -1,7 +1,22 @@
----
-layout: default
----
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+    <head>
+        {% include header.html %}
+    </head>
+    <body>
+        <div id="wrapper">
 
-<div class="bodytext">
-    {{ content }}
-</div>
+            {% include main_nav.html %}
+
+            <div class="bodytext">
+                {{ content }}
+            </div>
+            <div id="push"></div>
+        </div>
+
+            {% include footer.html %}
+            
+    </body>
