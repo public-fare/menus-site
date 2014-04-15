@@ -11,7 +11,7 @@ thumbnail: https://s3.amazonaws.com/curatingmenus/when-a-woman-collects-menus/bu
 pubdate: 2014-04-16
 ---
 <div itemscope itemtype="http://schema.org/Article">
-    <h2 itemprop="name">When a Woman Collects Menus <br />
+    <h2><span itemprop="name">When a Woman Collects Menus</span><br />
     <small itemprop="alternativeHeadline">Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small>
     </h2>
 
