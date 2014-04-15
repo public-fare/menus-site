@@ -1,8 +1,12 @@
 $(document).ready(function(){
     $.bigfoot();
     var headings = $(".section-head")
+    var scrollIds = []
+    headings.each(function() {
+        scrollIds.push(this.id)
+    })
     $.scrollDepth({
-        elements: headings,
+        elements: scrollIds,
         userTiming: false
     });
 });
