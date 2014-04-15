@@ -10,7 +10,9 @@ lede: The collection of historic menus at the New York Public Library (NYPL) was
 thumbnail: https://s3.amazonaws.com/curatingmenus/when-a-woman-collects-menus/buttolph_portrait_thumbnail.png
 ---
 
-## When a Woman Collects Menus <br /><small>Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small> {#post-title}
+<h2>When a Woman Collects Menus <br />
+<small>Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small>
+</h2>
 
 <ul class="post-authors">
 {% for author in page.authors %}
