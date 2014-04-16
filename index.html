@@ -31,10 +31,18 @@ layout: default
     <section id="backfile">
         <h4>Previous Posts</h4>
         <ol id="posts-list">
-            <li><a href="#">Previous Post #1</a><span class="date-span">April 12, 2014</span></li>
-            <li><a href="#">Previous Post #2</a><span class="date-span">March 31, 2014</span></li>
-            <li><a href="#">Previous Post #3</a><span class="date-span">February 20, 2014</span></li>
-            <li><a href="#">Previous Post #4</a><span class="date-span">January 4, 2014</span></li>
+            {% for post in site.posts %}
+                {% unless post.featured == 'yes' %}
+                    <li>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    <span class="date-span">{{ post.date | date_to_string }}</span></li>
+                    {% if post.external_url %}
+                    <li>
+                    <a href="{{ post.external_url }}" onclick="trackOutboundLink(‘{{ post.external_url }}’); return false;">{{ post.title }}</a>
+                    <span class="date-span">{{ post.date | date_to_string }}</span></li>
+                    {% endif %}
+                {% endunless %}
+            {% endif %}
         </ol>
     </section>
 
