@@ -214,6 +214,8 @@ Buttolph was and is, like all humans, not fully legible. However, her collection
 In our next essay, we take up some of these notions of a public research collection as we examine the contours of the menu collection in more detail, relying on the crowd-sourced information from the <em>What’s On the Menu?</em> project and the cataloging information that Buttolph included as she herself crowd-sourced and curated the physical collection.
 </div> 
 
+<b>Acknowledgements.</b> Thanks to the New York Public Library Manuscripts and Archives Division, especially to Susan Waide, and to the New York Public Library What’s On the Menu project members, especially X.  We also appreciate  the support of Martha Brogan, X Finally, thanks to CLIR for creating the occasion for us to meet and for championing scholarly work in libraries. 
+
 <div class="footnotes" id="notes-when-a-woman-collects">
     <ol>
         <li class="footnote" id="fn:1">
