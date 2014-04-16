@@ -3,8 +3,6 @@ $(document).ready(function(){
         positionContent: true
     });
 
-    $('body').scrollspy({ target: '#article-navbar-collapse-1' })
-
     var targetEl = $("#article-navbar-collapse-1 > ul");
     var headings = $(".section-head");
     var scrollIds = [];
@@ -33,4 +31,7 @@ $(document).ready(function(){
         );
 
     targetEl.append(newNodes);
+
+    $('body').scrollspy({ target: '#article-navbar-collapse-1' });
+
 });
