@@ -19,7 +19,7 @@ $(document).ready(function(){
         }
 
         scrollIds.push($(this).attr('id'));
-        headingText.push($(this).text(cut(10)));
+        headingText.push($(this).text());
     });
 
     $.scrollDepth({
