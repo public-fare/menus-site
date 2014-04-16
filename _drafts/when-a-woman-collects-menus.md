@@ -9,6 +9,7 @@ authors:
 lede: The collection of historic menus at the New York Public Library (NYPL) was created by a woman named Frank E. Buttolph. We found ourselves compelled to tell a better and fuller story about her and her work as collector in the early twentieth century.
 thumbnail: https://s3.amazonaws.com/curatingmenus/when-a-woman-collects-menus/buttolph_portrait_thumbnail.png
 pubdate: 2014-04-16
+featured: yes
 ---
 <div itemscope itemtype="http://schema.org/Article">
     <h2><span itemprop="name">When a Woman Collects Menus</span><br />
