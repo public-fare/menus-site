@@ -216,7 +216,7 @@ In our next essay, we take up some of these notions of a public research collect
 
 
 <strong>Acknowledgements</strong><br /> 
-Thanks to the New York Public Library Manuscripts and Archives Division, especially to Susan Waide, and to the New York Public Library What’s On the Menu project members, especially Dave Riordan. Thanks to X and Jen Guiliano for reading earlier versions of this piece.  We also appreciate the support of Martha Brogan. Finally, thanks to CLIR for creating the occasion for us to meet and for championing scholarly work in libraries. 
+Thanks to the New York Public Library Manuscripts and Archives Division, especially to Susan Waide, and to the New York Public Library <em>What’s On the Menu?</em> project members, especially Dave Riordan. Thanks to X and Jen Guiliano for reading earlier versions of this piece.  We also appreciate the support of Martha Brogan. Finally, thanks to CLIR for creating the occasion for us to meet and for championing scholarly work in libraries. 
 
 <div class="footnotes" id="notes-when-a-woman-collects">
     <ol>
