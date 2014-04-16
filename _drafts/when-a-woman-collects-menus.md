@@ -26,11 +26,18 @@ pubdate: 2014-04-16
 </div>
 
 The collection of historic menus at the New York Public Library (NYPL) was created by a woman named Frank E. Buttolph. From the beginning, she intended the collection to be a research collection. In much of what has been written (and repeated over and over again) about the menu collection, commentators launch into discussions of the collection’s size and richness, pausing momentarily to regret the paucity of information available about its creator. According to this common trope, Buttolph is a “mysterious and passionate figure”<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> who led a “quite private life” <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> about which (regrettably) not much can be known <sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>. Yet in trying to make good on Buttolph’s original intent—that the collection be used for research—and also in trying to curate the digital data set that NYPL has created from this physical collection, we found ourselves unable to accept the historical absence of the collection’s creator.
+=======
+#### Introduction {#introsection}
+{: class="section-head"}
+
+The collection of historic menus at the New York Public Library (NYPL) was created by a woman named Frank E. Buttolph. From the beginning, she intended the collection to be a research collection. In much of what has been written and documented (and repeated over and over again) about the menu collection, commentators launch into discussions of the collection’s size and richness, pausing momentarily to regret the paucity of information available about its creator. According to this common trope, Buttolph is a “mysterious and passionate figure”<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> who led a “quite private life” <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> about which (regrettably) not much can be known <sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>. Yet in trying to make good on Buttolph’s original intent—that the collection be used for research—and also in trying to curate the digital data set that NYPL has created from this physical collection, we found ourselves unable to accept the historical absence of the collection’s creator.
 
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/buttolph_portrait.jpg" alt="Portrait of Frank E. Buttolph">
 <div class="caption">
     <p>Portrait of Frank E. Buttolph, Moreno and Lopez Photography Studio, ca. 1900, from the New York Public Library Manuscript and Archives Division.</p>
+=======
+    <p>This is a caption.</p>
 </div>
 </div>
 
@@ -94,13 +101,13 @@ At the end of January 1900, about two weeks before her proposal to the library t
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/branch_library.jpeg" alt="Interior of a branch library">
 <div class="caption">
-    <p>This is a caption.</p>
+    <p>Women working in the New York Public Library at 115th Street, from the New York Public Library.</p>
 </div>
 </div>
 
-One significant distinction between Buttolph and the “great many” women employed at the library may have been her age. When she made her request, Buttolph was fifty-six years old (only six years younger than Billings himself). Perhaps more significant than her age was the fact that she was interested in working for the library.  It would be easy to assume that Buttolph, by the very existence of her collection and her long-running position as a volunteer, had a different class background and financial position than she did.
+One significant distinction between Buttolph and the “great many” women employed at the library may have been her age. When she made her request, Buttolph was fifty-six years old (only six years younger than Billings himself). Perhaps more significant than her age is the fact that she seems interested in employment (not volunteer work) for the library.  Given the very existence of the named collection and her long-running position as a volunteer, it would be easy to assume that Buttolph had a different class background and position than she did. However, her biography draws into relief her collecting work as part of a longer investment and career in education.
 
-Frank E. Buttolph was born Frances Editha Buttles in 1844, in Mansfield, Pennsylvania.<sup id="fnref:15"><a href="#fn:15" rel="footnote">15</a></sup> Due to the presence of a state normal school, this small town in north central Pennsylvania close to the border with New York state offered an important educational opportunity to the young Buttolph. The normal school replaced an earlier “classical seminary” in Mansfield in 1862, and offered professional training to prepare high school graduates for careers as schoolteachers. Buttolph was a member of the first graduating class of this new institution. Indeed it was the alumni reports in the annual catalogue/yearbook of the Pennsylvania State Normal School, Mansfield, Tioga County, now digitized and made available at the Internet Archive, that helped us follow Buttolph’s career before she came to NYPL. 
+Frank E. Buttolph was born Frances Editha Buttles in 1844, in Mansfield, Pennsylvania.<sup id="fnref:17"><a href="#fn:17" rel="footnote">17</a></sup> Due to the presence of a state normal school, this small town in north central Pennsylvania close to the border with New York state offered an important educational opportunity to the young Buttolph. The normal school replaced an earlier “classical seminary” in Mansfield in 1862, and offered professional training to prepare high school graduates for careers as schoolteachers. Buttolph was a member of the first graduating class of this new institution. Indeed it was the alumni reports in the annual catalogue/yearbook of the Pennsylvania State Normal School, Mansfield, Tioga County, now digitized and made available at the Internet Archive, that helped us follow Buttolph’s career before she came to NYPL. 
 
 After her graduation, Buttolph embarked on the career of an itinerant school teacher, usually spending only a year in each place. Based on the Normal School catalogs, we can follow her from Mansfield to Rahway, New Jersey; Cattletsburg, Kentucky; Wilmington, Delaware; Brooklyn, New York; and Tivoli, New York. Buttolph and her younger sister Permelia (also a Normal School graduate) ventured as far west as St. Paul, Minnesota, in the mid-1870s. She taught a range of subjects and, as is evident in her later collection development and translation work, was versed in several European languages.
 
@@ -112,9 +119,9 @@ From various sources, it’s apparent that Buttolph lived in same general sectio
 #### Buttolph’s Collecting Practices {#collecting}
 {: class="section-head"}
 
-When reporters wrote about Buttolph’s collection over the next twenty years, they usually focused on its oddness and its celebrity interest—particularly in the form of royal and political menus.<sup id="fnref:16"><a href="#fn:16" rel="footnote">16</a></sup> In aggregate, these articles seem to frame the collection as frivolous, despite the occasional lip-service to “history” and “posterity.” As a collector, they often present Buttolph as both the driving force in the collection and as a bit eccentric.  A quote from 1906 article suggests some of the discourse that surrounded the menu collection: 
+When reporters wrote about Buttolph’s collection over the next twenty years, they usually focused on its oddness and its celebrity interest—particularly in the form of royal and political menus.<sup id="fnref:18"><a href="#fn:18" rel="footnote">18</a></sup> In aggregate, these articles seem to frame the collection as frivolous, despite the occasional lip-service to “history” and “posterity.” As a collector, they often present Buttolph as both the driving force in the collection and as a bit eccentric.  A quote from 1906 article suggests some of the discourse that surrounded the menu collection: 
 
-> It cannot make its impression a part of literature, nor can it be described as an appendix to history, nor has it any place amid ‘old manuscripts.’ It must forever stand for what it is, the ‘Buttolph Collection,’ or, to describe it more elaborately, in the manner of old-time sub-titles, it is ‘the feminine instinct for accumulation verified by a lady, with neatness, elegance, and artistic verisimilitude.<sup id="fnref:17"><a href="#fn:17" rel="footnote">17</a></sup>
+> It cannot make its impression a part of literature, nor can it be described as an appendix to history, nor has it any place amid ‘old manuscripts.’ It must forever stand for what it is, the ‘Buttolph Collection,’ or, to describe it more elaborately, in the manner of old-time sub-titles, it is ‘the feminine instinct for accumulation verified by a lady, with neatness, elegance, and artistic verisimilitude.<sup id="fnref:19"><a href="#fn:19" rel="footnote">19</a></sup>
 
 Yet when examined closely, Buttolph’s collecting practices and principles identify her as something more akin to a professional—committed to research and preservation, invested in producing a broad, high-quality collection. A close reading of even the heavily stereotyped stories about Buttolph often reveals details of her work. For example, in “Literature of Eating, Collection of Menus in the New York Public Library,” the author says, “When Miss Buttolph attempted to transcribe the bill the last line worried her greatly.” While the author goes on to tell a story which showcases Buttolph’s sense of humor, this detail also reveals that she was transcribing materials. She created notes about the provenance and content of many menus and designed an organizational schemes for cataloging the menus, which she implemented in the form of a card catalog, and she attended to the physical housing and preservation of materials. 
 
@@ -122,7 +129,10 @@ Yet when examined closely, Buttolph’s collecting practices and principles iden
 <img src="{{ site.s3 }}when-a-woman-collects-menus/stewards_association_menu.jpeg" alt="Menu from the Buttolph Collection">
 <div class="caption">
     <p>This is a caption.</p>
-</div></div>
+
+</div>
+</div>
+
 
 The collection stamps that emboss almost every menu in the Buttolph collection, sometimes multiple times, may suggest the possessiveness that has been ascribed to collectors, most famously in Baudrillard's “The System of Collecting,” Buttolph was part of a segment of turn-of-the-century collectors who were invested in preservation as an act of social engagement.<sup id="fnref:18"><a href="#fn:18" rel="footnote">18</a></sup> To get a truer measure of Buttolph’s collecting activities, we examine her project activities in ways promoted by Anthony Shelton, who says, “Too much recent opinion has tried to reduce and generalise the ‘collector’ to a common type person without examining the complex motivations underlying their actions or the relationships between their collections and their other productions and their worldview.”<sup id="fnref:19"><a href="#fn:19" rel="footnote">19</a></sup> In Buttolph’s case then we begin not with the menus, but with church bulletins.
 
@@ -246,73 +256,71 @@ In our next essay, we take up some of these notions of a public research collect
         </li><li class="footnote" id="fn:13">
             <p>Cragin et. al<a href="#fnref:13" title="return to article">&#8617;</a></p>
         </li>
-        <li class="footnote" id="fn:35">
-        <p>  cite: Tribune]<a href="#fnref:35" title="return to article">&#8617;</a></p>
-        </li>
-        <li class="footnote" id="fn:36">
-            <p>[[cite: Chapman]????<a href="#fnref:36" title="return to article">&#8617;</a></p>
-        </li>
         <li class="footnote" id="fn:14">
-            <p>Michael Lesy and Lisa Stoffer, <em>Repast: Dining Out at the Dawn of the American Century</em> (New York: W. W. Norton & Company, 2013).<a href="#fnref:14" title="return to article">&#8617;</a></p>
-            </li>
+        <p>  cite: Tribune]<a href="#fnref:14" title="return to article">&#8617;</a></p>
+        </li>
         <li class="footnote" id="fn:15">
-            <p>Steve Orner, "Miss Frank E. Buttolph Mystery Solved," Miss Frank E. Buttolph: Menu Lady Mystery Solved, http://frankbuttolph.wordpress.com/; CENSUS INFO.<a href="#fnref:15" title="return to article">&#8617;</a></p>
+            <p>[[cite: Chapman]????<a href="#fnref:15" title="return to article">&#8617;</a></p>
         </li>
-           <li class="footnote" id="fn:16">
-            <p>“Literature of Eating; Collection of Menus in the New York Public Library,” <em>Evening Star</em> (Washington, DC), June 20, 1903, http://chroniclingamerica.loc.gov/lccn/sn83045462/1903-06-20/ed-1/seq-7/; “Menus from Many Lands; A Collection Soon to be Placed on Exhibiition,” <em>The Times</em> (Washington, DC), April 28,1901, http://chroniclingamerica.loc.gov/lccn/sn85054468/1901-04-28/ed-1/seq-20/; “When Royalty Dines; Some of the Good Things Prepared, as Shown by the Buttolph Menu Collection,” <em>The New York Times</em>, May 22, 1904.<a href="#fnref:16" title="return to article">&#8617;</a></p>
-        </li>
-           <li class="footnote" id="fn:17">
-            <p>"Most Interesting Array of Menus in the World; " Buttolph Collection" at the Astor Library Includes 14,500 Bills of Fare from All Parts of the World---Unique and Painstaking Work," <em>The New York Times</em>, June 3, 1906.<a href="#fnref:17" title="return to article">&#8617;</a></p>
+        <li class="footnote" id="fn:16">
+            <p>Michael Lesy and Lisa Stoffer, <em>Repast: Dining Out at the Dawn of the American Century</em> (New York: W. W. Norton & Company, 2013).<a href="#fnref:16" title="return to article">&#8617;</a></p>
+            </li>
+        <li class="footnote" id="fn:17">
+            <p>Steve Orner, "Miss Frank E. Buttolph Mystery Solved," Miss Frank E. Buttolph: Menu Lady Mystery Solved, http://frankbuttolph.wordpress.com/; CENSUS INFO.<a href="#fnref:17" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:18">
-            <p>Jean Baudrillard, “The System of Collecting,” <em>Cultures of Collecting</em>, eds. John Elsner and Roger Cardinal (Harvard University Press, 1994).  <a href="#fnref:18" title="return to article">&#8617;</a></p>
+            <p>“Literature of Eating; Collection of Menus in the New York Public Library,” <em>Evening Star</em> (Washington, DC), June 20, 1903, http://chroniclingamerica.loc.gov/lccn/sn83045462/1903-06-20/ed-1/seq-7/; “Menus from Many Lands; A Collection Soon to be Placed on Exhibiition,” <em>The Times</em> (Washington, DC), April 28,1901, http://chroniclingamerica.loc.gov/lccn/sn85054468/1901-04-28/ed-1/seq-20/; “When Royalty Dines; Some of the Good Things Prepared, as Shown by the Buttolph Menu Collection,” <em>The New York Times</em>, May 22, 1904.<a href="#fnref:18" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:19">
-            <p>Anthony Shelton, <em>Collections: Expressions of Self and Other</em> (London: Horniman Museum and Gardens, 2001), 19.<a href="#fnref:19" title="return to article">&#8617;</a></p>
+            <p>"Most Interesting Array of Menus in the World; " Buttolph Collection" at the Astor Library Includes 14,500 Bills of Fare from All Parts of the World---Unique and Painstaking Work," <em>The New York Times</em>, June 3, 1906.<a href="#fnref:19" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:20">
-            <p><em>The Churchman</em> 81 (1904), ed. George S. Mallory, 38.<a href="#fnref:20" title="return to article">&#8617;</a></p>
+            <p>Jean Baudrillard, “The System of Collecting,” <em>Cultures of Collecting</em>, eds. John Elsner and Roger Cardinal (Harvard University Press, 1994).  <a href="#fnref:20" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:21">
-            <p><em>World's Fair Bulletin</em> 3 (1901), 41.<a href="#fnref:21" title="return to article">&#8617;</a></p>
+            <p>Anthony Shelton, <em>Collections: Expressions of Self and Other</em> (London: Horniman Museum and Gardens, 2001), 19.<a href="#fnref:21" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:22">
-            <p>Confederate Veteran -- cannot find citation <a href="#fnref:22" title="return to article">&#8617;</a></p>
-            </li>
+            <p><em>The Churchman</em> 81 (1904), ed. George S. Mallory, 38.<a href="#fnref:22" title="return to article">&#8617;</a></p>
+        </li>
            <li class="footnote" id="fn:23">
-            <p> Buttolph letter July 19<a href="#fnref:23" title="return to article">&#8617;</a></p>
-            </li>
+            <p><em>World's Fair Bulletin</em> 3 (1901), 41.<a href="#fnref:23" title="return to article">&#8617;</a></p>
+        </li>
            <li class="footnote" id="fn:24">
-            <p> Dain PAGE NUMBER.<a href="#fnref:24" title="return to article">&#8617;</a></p>
+            <p>Confederate Veteran -- cannot find citation <a href="#fnref:24" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:25">
-            <p>Harry Miller Lydenberg and the New York Public Library, <em>History of the New York Public Library: Astor, Lenox, and Tilden Foundataions</em> (New York: New York Public Library, 1987).<a href="#fnref:25" title="return to article">&#8617;</a></p>
+            <p> Buttolph letter July 19<a href="#fnref:23" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:26">
-            <p>  [cite: Chapman, 290] ???.<a href="#fnref:26" title="return to article">&#8617;</a></p></li>
+            <p> Dain PAGE NUMBER.<a href="#fnref:26" title="return to article">&#8617;</a></p>
+            </li>
            <li class="footnote" id="fn:27">
-            <p>Abigail Ayres, <em>Free to All: Carnegie Libraries and American Culture, 1890-1920</em> (Chicago: University of Chicago Press, 1995).<a href="#fnref:27" title="return to article">&#8617;</a></p></li>
+            <p>Harry Miller Lydenberg and the New York Public Library, <em>History of the New York Public Library: Astor, Lenox, and Tilden Foundataions</em> (New York: New York Public Library, 1987).<a href="#fnref:27" title="return to article">&#8617;</a></p>
+            </li>
            <li class="footnote" id="fn:28">
-            <p> [cite: Poole]?????? <a href="#fnref:28" title="return to article">&#8617;</a></p>
-            </li>
+            <p>  [cite: Chapman, 290] ???.<a href="#fnref:28" title="return to article">&#8617;</a></p></li>
            <li class="footnote" id="fn:29">
-            <p>Van Slyck PAGE NUMBER.<a href="#fnref:29" title="return to article">&#8617;</a></p>
-        </li>
-        <li class="footnote" id="fn:30">
-            <p>[cite: Weil]??? ]<a href="#fnref:30" title="return to article">&#8617;</a></p>
-        </li>
-         <li class="footnote" id="fn:31">
-            <p>  [cite: NEHGR ??? <a href="#fnref:31" title="return to article">&#8617;</a></p>
+            <p>Abigail Ayres, <em>Free to All: Carnegie Libraries and American Culture, 1890-1920</em> (Chicago: University of Chicago Press, 1995).<a href="#fnref:29" title="return to article">&#8617;</a></p></li>
+           <li class="footnote" id="fn:30">
+            <p> [cite: Poole]?????? <a href="#fnref:30" title="return to article">&#8617;</a></p>
             </li>
-           <li class="footnote" id="fn:32">
-            <p>"Most Interesting Array"<a href="#fnref:32" title="return to article">&#8617;</a></p></li>
-           <li class="footnote" id="fn:33">
-            <p> Poole PAGE NUMBER<a href="#fnref:33" title="return to article">&#8617;</a></p></li>
+           <li class="footnote" id="fn:31">
+            <p>Van Slyck PAGE NUMBER.<a href="#fnref:31" title="return to article">&#8617;</a></p>
+        </li>
+        <li class="footnote" id="fn:32">
+            <p>[cite: Weil]??? ]<a href="#fnref:32" title="return to article">&#8617;</a></p>
+        </li>
+         <li class="footnote" id="fn:33">
+            <p>  [cite: NEHGR ??? <a href="#fnref:33" title="return to article">&#8617;</a></p>
+            </li>
            <li class="footnote" id="fn:34">
-            <p> Poole PAGE NUMBER<a href="#fnref:34" title="return to article">&#8617;</a></p>
-            </li>
-           
-            
+            <p>"Most Interesting Array"<a href="#fnref:34" title="return to article">&#8617;</a></p></li>
+           <li class="footnote" id="fn:35">
+            <p> Poole PAGE NUMBER<a href="#fnref:35" title="return to article">&#8617;</a></p></li>
+           <li class="footnote" id="fn:36">
+            <p> Poole PAGE NUMBER<a href="#fnref:36" title="return to article">&#8617;</a></p>
+            </li> 
          <li class="footnote" id="fn:37">
             <p>Dain #.<a href="#fnref:37" title="return to article">&#8617;</a></p>
         </li>

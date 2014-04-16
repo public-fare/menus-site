@@ -8,16 +8,6 @@ $(document).ready(function(){
     var scrollIds = [];
     var headingText = [];
     headings.each(function() {
-
-        function cut(n) {
-            return function textCutter(i, text) {
-                var short = text.substr(0, n);
-                if (/^\S/.test(text.substr(n)))
-                    return short.replace(/\s+\S*$/, "");
-                return short;
-            };
-        }
-
         scrollIds.push($(this).attr('id'));
         headingText.push($(this).text());
     });
@@ -36,9 +26,12 @@ $(document).ready(function(){
     $.each(
         headingDict,
         function (index, el) {
-            newNodes.push('<li><a href="#' + index + '">' + el + '</a></li>');
+            newNodes.push('<li><a class="section-link" href="#' + index + '">' + el + '</a></li>');
         }
         );
 
     targetEl.append(newNodes);
+
+    $('body').scrollspy({ target: '#article-navbar-collapse-1' });
+
 });
