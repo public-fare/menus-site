@@ -217,7 +217,7 @@ In our next essay, we take up some of these notions of a public research collect
 <div class="footnotes" id="notes-when-a-woman-collects">
     <ol>
         <li class="footnote" id="fn:1">
-            <p>“Miss Frank E. Buttolph American Menu Collection, 1851-1930,” New York Public Library Collection Guides, http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?col_id=159. <a href="#fnref:1" title="return to article">&#8617;</a></p>
+            <p>“Miss Frank E. Buttolph American Menu Collection, 1851-1930,” New York Public Library Collection Guides, <a href="http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?col_id=159">http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?col_id=159</a>. <a href="#fnref:1" title="return to article">&#8617;</a></p>
         </li>
     
         <li class="footnote" id="fn:2">
