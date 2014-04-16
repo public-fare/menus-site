@@ -3,7 +3,7 @@ $(document).ready(function(){
         positionContent: true
     });
 
-    $('.bodytext').scrollspy({ target: '.navbar-nav' })
+    $('body').scrollspy({ target: '#article-navbar-collapse-1' })
 
     var targetEl = $("#article-navbar-collapse-1 > ul");
     var headings = $(".section-head");
