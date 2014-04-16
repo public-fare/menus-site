@@ -32,6 +32,9 @@ The collection of historic menus at the New York Public Library (NYPL) was creat
 
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/buttolph_portrait.jpg" alt="Portrait of Frank E. Buttolph">
+<div class="caption">
+    <p>This is a caption.</p>
+</div>
 </div>
 
 We wanted to understand the provenance of the menus data and, therefore, needed to know how the physical collection that underpins the digital data came to be. To maintain, or even improve, “the interest and usefulness” of the menus data for humanities scholarship, we want to situate the collection in local and historical context.<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> To achieve this, we needed to understand more about Buttolph herself. The more we researched Buttolph’s life, the more we found ourselves compelled to tell a better and fuller story about her and her work as a collector in the early twentieth century.  
