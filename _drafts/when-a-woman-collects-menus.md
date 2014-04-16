@@ -66,6 +66,9 @@ The writer of the *The Literary Collector* magazine’s March 1905 “Notes” s
 
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/columbia_restaurant_menu.jpeg" alt="Menu from the Columbia Restaurant">
+<div class="caption">
+    <p>This is a caption.</p>
+</div>
 </div> 
 
 By telling the story of Frank E. Buttolph’s collection—yet again—and telling the story of those stories told about her, we hope to provide new contexts for understanding her work as a collector. We begin with stories about the origin of the collection.  When Buttolph and her collection were featured in newspaper articles, journalists often retell a story about how Buttolph’s awareness of the changing century—specifically her first sight of the year “1900” printed on the menu of a restaurant she visited in Union Square on New Year’s Day—inspired her project of collecting for the Library.  Buttolph herself recounted this story in a letter to the New York Public Library’s board of trustees:
@@ -87,6 +90,9 @@ At the end of January 1900, about two weeks before her proposal to the library t
 
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/branch_library.jpeg" alt="Interior of a branch library">
+<div class="caption">
+    <p>This is a caption.</p>
+</div>
 </div>
 
 One significant distinction between Buttolph and the “great many” women employed at the library may have been her age. When she made her request, Buttolph was fifty-six years old (only six years younger than Billings himself).
@@ -111,6 +117,9 @@ Yet when examined closely, Buttolph’s collecting practices and principles iden
 
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/stewards_association_menu.jpeg" alt="Menu from the Buttolph Collection">
+<div class="caption">
+    <p>This is a caption.</p>
+</div>
 </div>
 
 The collection stamps that emboss almost every menu in the Buttolph collection, sometimes multiple times, may suggest the possessiveness that has been ascribed to collectors, most famously in Baudrillard's “The System of Collecting,” Buttolph was part of a segment of turn-of-the-century collectors who were invested in preservation as an act of social engagement.<sup id="fnref:18"><a href="#fn:18" rel="footnote">18</a></sup> To get a truer measure of Buttolph’s collecting activities, we examine her project activities in ways promoted by Anthony Shelton, who says, “Too much recent opinion has tried to reduce and generalise the ‘collector’ to a common type person without examining the complex motivations underlying their actions or the relationships between their collections and their other productions and their worldview.”<sup id="fnref:19"><a href="#fn:19" rel="footnote">19</a></sup> In Buttolph’s case then we begin not with the menus, but with church bulletins.
@@ -122,6 +131,9 @@ Aiming to preserve church bulletins, journals and magazines, and menus, Buttolph
 
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/penn_railroad_menu.jpeg" alt="Pennsylvania Railroad Menu">
+<div class="caption">
+    <p>This is a caption.</p>
+</div>
 </div>
 
 Buttolph created the bulk of the menu collection by requesting menus from people and organizations in writing.  She wrote hundreds of letters to restaurants, rail and ship companies, social organizations, chambers of commerce, government agencies, printers and trade journal and newspaper editors.  At her request, contributors regularly sent her menus, some for over a decade; others collected on her behalf; and a number gave her leads for other stewards, establishments, or texts that might help her collection building. Even those who didn’t send menus would often write explanations for why they didn’t have any to contribute and would commit to doing so if they could in the future.
@@ -136,6 +148,9 @@ Buttolph was also invested in curatorial practices that focused on long-term pre
 
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/silk_backed_with_card.jpeg" alt="A silk menu with card backing">
+<div class="caption">
+    <p>This is a caption.</p>
+</div>
 </div>  
 
 By reading the evidence that Buttolph left about her own work, we can begin to see past the broad stereotypes about collectors that have attached themselves to her. The fact that she volunteered at the NYPL for more than twenty years to do this work demonstrates her personal commitment. However, her approach to that work and the menu collection in particular, was not a personal fetish but an investment in institutional preservation and future research.  
@@ -150,6 +165,9 @@ The Astor Library itself is an important character in Buttolph’s personal hist
 
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/astor_library_interior.jpeg" alt="Engraving of the Interior of the Astor Library">
+<div class="caption">
+    <p>This is a caption.</p>
+</div>
 </div>
 
 The Astor Library opened in 1854 as a public reference library founded by private philanthropy and directed by and toward scholarly interests. The gift to establish the library came about through the lobbying of Joseph Green Cogswell, a scholar, educator, and bibliographer who had served as the college librarian at Harvard, traveled widely in Europe, founded a progressive school, edited significant scholarly journals, and tutored the children of New York elites. It was in these elite social circles Cogswell met and became friends with the wealthy merchant John Jacob Astor. So, while the donation was Astor’s (in a codicil to his will), the vision for the library, its collections, and even the design of its building were largely Cogswell’s.<sup id="fnref:24"><a href="#fn:24" rel="footnote">24</a></sup>
