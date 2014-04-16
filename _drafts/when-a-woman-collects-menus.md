@@ -329,7 +329,7 @@ In our next essay, we take up some of these notions of a public research collect
             <p> [cite: LJ]???? <a href="#fnref:39" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:40">
-            <p>Beck, PAGE NUMBER<a href="#fnref:40" title="return to article">&#8617;</a></p>
+            <p>Beck, 149.<a href="#fnref:40" title="return to article">&#8617;</a></p>
         </li>
     </ol>
     
