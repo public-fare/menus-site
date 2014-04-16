@@ -3,6 +3,8 @@ $(document).ready(function(){
         positionContent: true
     });
 
+    $('.bodytext').scrollspy({ target: '.navbar-nav' })
+
     var targetEl = $("#article-navbar-collapse-1 > ul");
     var headings = $(".section-head");
     var scrollIds = [];
