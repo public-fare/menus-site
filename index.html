@@ -13,17 +13,20 @@ layout: default
     <hr/>
 
     <section id="highlight">
+    {% for post in site.posts %}
+        {% if post.featured %}
         <div class="img-left">
-            <img src="/img/columbia_restaurant_logo.png" alt="Menu for the Columbia Restaurant">
+            <img src="{{ post.key_image }}">
         </div>
         <div class="excerpt">
             <h3>
             <small>Latest</small><br />
-            This is an Article Title
+            {{ post.title }}
             </h3>
-            <p>Bacon ipsum dolor sit amet pork belly dolore shank, jerky eu ham sint ground round cupidatat consequat. Bresaola est swine ex. Pork loin corned beef jerky magna, consectetur proident chuck bresaola tongue pariatur. Excepteur anim veniam ad aliqua turkey ribeye esse. Dolore eiusmod ad, jerky minim do doner. In voluptate brisket sunt esse corned beef qui ullamco rump.</p>
-            <a href="/articles/when-a-woman-collects-menus/" class="btn btn-default">Read more</a>
+            <p>{{ post.lede }}</p>
+            <a href="{{ post.url }}">Read more</a>
         </div>
+    {% endfor %}
     </section>
 
     <hr/>
