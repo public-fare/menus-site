@@ -2,4 +2,5 @@ name: Writing About Menus
 pygments: true
 markdown: kramdown
 exclude: [lib, less, notebooks]
+permalink: /articles/:title
 s3: https://s3.amazonaws.com/curatingmenus/
