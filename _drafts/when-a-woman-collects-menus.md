@@ -199,33 +199,33 @@ In our next essay, we take up some of these notions of a public research collect
             <p>Rebecca Federman, “The Queen B: Miss Buttolph and Her Menus,” What’s On the Menu, Food For Thought, NYPL Labs blog, April 28, 2011, http://www.nypl.org/blog/2011/04/28/queen-b-miss-buttolph-and-her-menus.]<a href="#fnref:3" title="return to article">&#8617;</a></p>
         </li>
          <li class="footnote" id="fn:4">
-            <p> [cite: Cragin et. al ]<a href="#fnref:4" title="return to article">&#8617;</a></p>
+            <p>Melissa H. Cragin, P. Bryan Heidorn, Carole L. Palmer, and Linda C. Smith, "An Educational Program on Data Curation," (paper presented at the Science and Technology Section, America Library Association Conference, Washington, DC, June 2007).<a href="#fnref:4" title="return to article">&#8617;</a></p>
         </li>
     
         <li class="footnote" id="fn:5">
-            <p>Jill Lepore, “Historians Who Love Too Much: Reflections on Microhistory and Biography,” The Journal of American History 88.1 (June 2001): 129-144. <a href="#fnref:5" title="return to article">&#8617;</a></p>
+            <p>Jill Lepore, “Historians Who Love Too Much: Reflections on Microhistory and Biography,” <em>The Journal of American History</em> 88.1 (June 2001): 129-144. <a href="#fnref:5" title="return to article">&#8617;</a></p>
         </li>
    
         <li class="footnote" id="fn:6">
-            <p>Cite: Caine<a href="#fnref:6" title="return to article">&#8617;</a></p>
+            <p>Barbara Caine, "Feminist Biography and Feminist History," <em>Women's History Review</em> 3.2 (1994): 247-261.<a href="#fnref:6" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:7">
-            <p> [cite: Cragin et. al ]<a href="#fnref:4" title="return to article">&#8617;</a></p>
+            <p>Cragin et. al<a href="#fnref:4" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:8">
             <p>Suzanne Hildenbrand, "Some Theoretical Considerations of Women in Library History," <em>The Journal of Library History</em> 18.4 (1983): 382-390.<a href="#fnref:8" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:9">
             <p>Phyllis Dain, "Women's Studies in American Library History: Some Critical Reflections," <em>The Journal of Library History</em> 18.4 (1983): 450-463 PAGE NUMBER?. <a href="#fnref:9" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:10">
-            <p> CITE: Canning, Scott<a href="#fnref:10" title="return to article">&#8617;</a></p>
+            <p>Kathleen Canning, <em>Gender History in Practice: Historical Perspectives on Bodies, Class, and Citizenship</em> (Ithaca, New York: Cornell University Press, 2006). <a href="#fnref:10" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:11">
             <p>"Notes," <em>The Literary Collector: A Magazine of Booklore and Bibliography</em> 9-10 (1905), eds. Annie Dennis Bursch and Frederick C. Bursch: 107.<a href="#fnref:11" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:12">
-            <p>Beth Muellner, “The Empress Elisabeth of Austria and Her ‘Untidy’ Collection,” <em>Women’s Studies</em> 39 (2010): 536–561; J. Samaine Lockwood, “Shopping for the Nation: Women's China Collecting in Late-Nineteenth-Century New England,” <em>The New England Quarterly<em> 81.1 (2008): 63-90; “The Gender of Collecting,” <em>Museums, Objects, and Collections</em><a href="#fnref:12" title="return to article">&#8617;</a></p>
+            <p>See Beth Muellner, “The Empress Elisabeth of Austria and Her ‘Untidy’ Collection,” <em>Women’s Studies</em> 39 (2010): 536–561; J. Samaine Lockwood, “Shopping for the Nation: Women's China Collecting in Late-Nineteenth-Century New England,” <em>The New England Quarterly<em> 81.1 (2008): 63-90.<a href="#fnref:12" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:13">
-            <p> [cite: Cragin et. al ]<a href="#fnref:13" title="return to article">&#8617;</a></p>
+            <p>Cragin et. al<a href="#fnref:13" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:14">
-            <p>Michael Lesy and Lisa Stoffer, <em>Repast: Dining Out at the Dawn of the American Century</em>, New York, New York: W. W. Norton & Company, 2013.<a href="#fnref:14" title="return to article">&#8617;</a></p>
+            <p>Michael Lesy and Lisa Stoffer, <em>Repast: Dining Out at the Dawn of the American Century</em> (New York: W. W. Norton & Company, 2013).<a href="#fnref:14" title="return to article">&#8617;</a></p>
             </li>
         <li class="footnote" id="fn:15">
             <p>Steve Orner, "Miss Frank E. Buttolph Mystery Solved," Miss Frank E. Buttolph: Menu Lady Mystery Solved, http://frankbuttolph.wordpress.com/; CENSUS INFO.<a href="#fnref:15" title="return to article">&#8617;</a></p>
@@ -234,16 +234,16 @@ In our next essay, we take up some of these notions of a public research collect
             <p>“Literature of Eating; Collection of Menus in the New York Public Library,” <em>Evening Star</em> (Washington, DC), June 20, 1903, http://chroniclingamerica.loc.gov/lccn/sn83045462/1903-06-20/ed-1/seq-7/; “Menus from Many Lands; A Collection Soon to be Placed on Exhibiition,” <em>The Times</em> (Washington, DC), April 28,1901, http://chroniclingamerica.loc.gov/lccn/sn85054468/1901-04-28/ed-1/seq-20/; “When Royalty Dines; Some of the Good Things Prepared, as Shown by the Buttolph Menu Collection,” <em>The New York Times</em>, May 22, 1904.<a href="#fnref:16" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:17">
-            <p> [cite: "Most Interesting Array"]<a href="#fnref:17" title="return to article">&#8617;</a></p>
+            <p>"Most Interesting Array of Menus in the World; " Buttolph Collection" at the Astor Library Includes 14,500 Bills of Fare from All Parts of the World---Unique and Painstaking Work," <em>The New York Times</em>, June 3, 1906.<a href="#fnref:17" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:18">
-            <p>Jean Baudrillard, “The System of Collecting,” <em>Cultures of Collecting</em>, eds. John Elsner and Roger Cardinal, Harvard U. Press, 1994.]  <a href="#fnref:18" title="return to article">&#8617;</a></p>
+            <p>Jean Baudrillard, “The System of Collecting,” <em>Cultures of Collecting</em>, eds. John Elsner and Roger Cardinal (Harvard University Press, 1994).  <a href="#fnref:18" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:19">
-            <p> [cite: collectors pg 19 ]<a href="#fnref:19" title="return to article">&#8617;</a></p>
+            <p>Anthony Shelton, <em>Collections: Expressions of Self and Other</em> (London: Horniman Museum and Gardens, 2001), 19.<a href="#fnref:19" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:20">
-            <p> [cite: Churchman ]<a href="#fnref:20" title="return to article">&#8617;</a></p>
+            <p><em>The Churchman</em> 81 (1904), ed. George S. Mallory, 38.<a href="#fnref:20" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:21">
             <p> [cite: Confederate ]<a href="#fnref:21" title="return to article">&#8617;</a></p>
