@@ -249,27 +249,27 @@ In our next essay, we take up some of these notions of a public research collect
         </li><li class="footnote" id="fn:11">
             <p>"Notes," <em>The Literary Collector: A Magazine of Booklore and Bibliography</em> 9-10 (1905), eds. Annie Dennis Bursch and Frederick C. Bursch: 107.<a href="#fnref:11" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:12">
-            <p>See Beth Muellner, “The Empress Elisabeth of Austria and Her ‘Untidy’ Collection,” <em>Women’s Studies</em> 39 (2010): 536–561; J. Samaine Lockwood, “Shopping for the Nation: Women's China Collecting in Late-Nineteenth-Century New England,” <em>The New England Quarterly<em> 81.1 (2008): 63-90.<a href="#fnref:12" title="return to article">&#8617;</a></p>
+            <p>See Beth Muellner, “The Empress Elisabeth of Austria and Her ‘Untidy’ Collection,” <em>Women’s Studies</em> 39 (2010): 536–561; J. Samaine Lockwood, “Shopping for the Nation: Women's China Collecting in Late-Nineteenth-Century New England,” <em>The New England Quarterly</em> 81.1 (2008): 63-90.<a href="#fnref:12" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:13">
             <p>Quoted in Ryley.<a href="#fnref:13" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:14">
-        <p>  cite: Tribune]<a href="#fnref:14" title="return to article">&#8617;</a></p>
+        <p> "Menu of Aguinaldo Dinner, Which Was Broken Up by Funston, Secured by the New York Public Library," <em>New York Daily Tribune</em>, June 14, 1903.<a href="#fnref:14" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:15">
-            <p>[[cite: Chapman]????<a href="#fnref:15" title="return to article">&#8617;</a></p>
+            <p>"Most Interesting Array of Menus in the World; 'Buttolph Collection' at the Astor Library Includes 14,500 Bills of Fare from All Parts of the World---Unique and Painstaking Work," <em>The New York Times</em>, June 3, 1906.<a href="#fnref:15" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:16">
             <p>Michael Lesy and Lisa Stoffer, <em>Repast: Dining Out at the Dawn of the American Century</em> (New York: W. W. Norton & Company, 2013).<a href="#fnref:16" title="return to article">&#8617;</a></p>
             </li>
         <li class="footnote" id="fn:17">
-            <p>Steve Orner, "Miss Frank E. Buttolph Mystery Solved," Miss Frank E. Buttolph: Menu Lady Mystery Solved, http://frankbuttolph.wordpress.com/; CENSUS INFO.<a href="#fnref:17" title="return to article">&#8617;</a></p>
+            <p>Steve Orner, "Miss Frank E. Buttolph Mystery Solved," Miss Frank E. Buttolph: Menu Lady Mystery Solved, http://frankbuttolph.wordpress.com/; U.S. Census Bureau, 1850, Richmond, Tioga, Pennsylvania, M432_830 179B 359.<a href="#fnref:17" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:18">
             <p>“Literature of Eating; Collection of Menus in the New York Public Library,” <em>Evening Star</em> (Washington, DC), June 20, 1903, http://chroniclingamerica.loc.gov/lccn/sn83045462/1903-06-20/ed-1/seq-7/; “Menus from Many Lands; A Collection Soon to be Placed on Exhibiition,” <em>The Times</em> (Washington, DC), April 28,1901, http://chroniclingamerica.loc.gov/lccn/sn85054468/1901-04-28/ed-1/seq-20/; “When Royalty Dines; Some of the Good Things Prepared, as Shown by the Buttolph Menu Collection,” <em>The New York Times</em>, May 22, 1904.<a href="#fnref:18" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:19">
-            <p>"Most Interesting Array of Menus in the World; " Buttolph Collection" at the Astor Library Includes 14,500 Bills of Fare from All Parts of the World---Unique and Painstaking Work," <em>The New York Times</em>, June 3, 1906.<a href="#fnref:19" title="return to article">&#8617;</a></p>
+            <p>"Most Interesting Array of Menus in the World."<a href="#fnref:19" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:20">
             <p>Jean Baudrillard, “The System of Collecting,” <em>Cultures of Collecting</em>, eds. John Elsner and Roger Cardinal (Harvard University Press, 1994).  <a href="#fnref:20" title="return to article">&#8617;</a></p>
@@ -284,7 +284,7 @@ In our next essay, we take up some of these notions of a public research collect
             <p><em>World's Fair Bulletin</em> 3 (1901), 41.<a href="#fnref:23" title="return to article">&#8617;</a></p>
         </li>
            <li class="footnote" id="fn:24">
-            <p>Confederate Veteran -- cannot find citation <a href="#fnref:24" title="return to article">&#8617;</a></p>
+            <p>"Proof to Value of the Veteran," <em>Confederate Veteran</em 8 (1900): 114. -- cannot find citation <a href="#fnref:24" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:25">
             <p>Frank E. Buttolph, letter to Mr. Galliard, July 19, 1921, Edwin Hatfield Anderson Records, The New York Public Library Archives, The New York Public Library, Astor, Lenox and Tilden Foundations.<a href="#fnref:23" title="return to article">&#8617;</a></p>
@@ -296,23 +296,23 @@ In our next essay, we take up some of these notions of a public research collect
             <p>Harry Miller Lydenberg and the New York Public Library, <em>History of the New York Public Library: Astor, Lenox, and Tilden Foundataions</em> (New York: New York Public Library, 1987): 32.<a href="#fnref:27" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:28">
-            <p>  [cite: Chapman, 290] ???.<a href="#fnref:28" title="return to article">&#8617;</a></p></li>
+            <p>Carleton Chapman, <em>Order out of Chaos: John Shaw Billings and America's Coming of Age</em> (Boston: Boston Medical Library in the Francis A. Countway Library of Medicine, 1994), 290.<a href="#fnref:28" title="return to article">&#8617;</a></p></li>
            <li class="footnote" id="fn:29">
-            <p> [cite: Poole]?????? <a href="#fnref:29" title="return to article">&#8617;</a></p></li>
+            <p>William Frederick Poole, <em>Circulars of Information of he Bureau of Education: The Construction of Library Buildings</em> 1-1881, Washington, DC: Government Printing Office, 1881.<a href="#fnref:29" title="return to article">&#8617;</a></p></li>
            <li class="footnote" id="fn:30">
             <p>Abigail Ayres Van Slyck, <em>Free to All: Carnegie Libraries and American Culture, 1890-1920</em> (Chicago: University of Chicago Press, 1995): 7-8.<a href="#fnref:30" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:31">
-            <p>[cite: Weil]??? ]<a href="#fnref:31" title="return to article">&#8617;</a></p>
+            <p>Francois Weil, "John Farmer and the Making of American Genealogy," <em>New England Quarterly</em> 80.3 (2007): 408-434.<a href="#fnref:31" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:32">
-            <p>[cite: NEHGR ??? <a href="#fnref:32" title="return to article">&#8617;</a></p>
+            <p>"Notes and Queries," <em>The New England Historical and Genealogical Register</em> 52 (1898): 76.<a href="#fnref:32" title="return to article">&#8617;</a></p>
         </li>
          <li class="footnote" id="fn:33">
             <p>Van Slyck 6.<a href="#fnref:33" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:34">
-            <p>"Most Interesting Array"<a href="#fnref:34" title="return to article">&#8617;</a></p></li>
+            <p>"Most Interesting Array of Menus"<a href="#fnref:34" title="return to article">&#8617;</a></p></li>
          <li class="footnote" id="fn:35">
             <p>Dain #.<a href="#fnref:35" title="return to article">&#8617;</a></p>
         </li>
@@ -321,15 +321,17 @@ In our next essay, we take up some of these notions of a public research collect
         </li>
         <li class="footnote" id="fn:37">
             <p>Dain 122.<a href="#fnref:37" title="return to article">&#8617;</a></p>
-        </li>
-        <li class="footnote" id="fn:38">
-            <p>Clare Beck, <em>The New Woman as Librarian: The Career of Adelaide Hasse</em> (Lanham, Maryland: Scarecrow Press, 2006).<a href="#fnref:38" title="return to article">&#8617;</a></p>
+        </li><li class="footnote" id="fn:38">
+            <p>Dain 122.<a href="#fnref:38" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:39">
-            <p> [cite: LJ]???? <a href="#fnref:39" title="return to article">&#8617;</a></p>
+            <p>Clare Beck, <em>The New Woman as Librarian: The Career of Adelaide Hasse</em> (Lanham, Maryland: Scarecrow Press, 2006).<a href="#fnref:39" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:40">
-            <p>Beck, 149.<a href="#fnref:40" title="return to article">&#8617;</a></p>
+            <p>"One Hundred of the Most Important Leaders We Had in the 20th Century," <em>American Libraries</em> 30.11: 38-48.<a href="#fnref:40" title="return to article">&#8617;</a></p>
+        </li>
+        <li class="footnote" id="fn:41">
+            <p>Beck 149.<a href="#fnref:41" title="return to article">&#8617;</a></p>
         </li>
     </ol>
     
