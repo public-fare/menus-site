@@ -287,7 +287,7 @@ In our next essay, we take up some of these notions of a public research collect
             <p>Confederate Veteran -- cannot find citation <a href="#fnref:24" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:25">
-            <p> Buttolph letter July 19<a href="#fnref:23" title="return to article">&#8617;</a></p>
+            <p>Frank E. Buttolph, letter to Mr. Galliard, July 19, 1921, Edwin Hatfield Anderson Records, The New York Public Library Archives, The New York Public Library, Astor, Lenox and Tilden Foundations.<a href="#fnref:23" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:26">
             <p> Dain 3-10.<a href="#fnref:26" title="return to article">&#8617;</a></p>
