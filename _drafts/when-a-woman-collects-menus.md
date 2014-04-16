@@ -300,16 +300,16 @@ In our next essay, we take up some of these notions of a public research collect
            <li class="footnote" id="fn:29">
             <p> [cite: Poole]?????? <a href="#fnref:29" title="return to article">&#8617;</a></p></li>
            <li class="footnote" id="fn:30">
-            <p>Abigail Ayres Van Slyck, <em>Free to All: Carnegie Libraries and American Culture, 1890-1920</em> (Chicago: University of Chicago Press, 1995).<a href="#fnref:30" title="return to article">&#8617;</a></p>
+            <p>Abigail Ayres Van Slyck, <em>Free to All: Carnegie Libraries and American Culture, 1890-1920</em> (Chicago: University of Chicago Press, 1995): 7-8.<a href="#fnref:30" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:31">
-            <p>Van Slyck PAGE NUMBER.<a href="#fnref:31" title="return to article">&#8617;</a></p>
+            <p>[cite: Weil]??? ]<a href="#fnref:31" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:32">
-            <p>[cite: Weil]??? ]<a href="#fnref:32" title="return to article">&#8617;</a></p>
+            <p>[cite: NEHGR ??? <a href="#fnref:32" title="return to article">&#8617;</a></p>
         </li>
          <li class="footnote" id="fn:33">
-            <p>  [cite: NEHGR ??? <a href="#fnref:33" title="return to article">&#8617;</a></p>
+            <p>Van Slyck 6.<a href="#fnref:33" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:34">
             <p>"Most Interesting Array"<a href="#fnref:34" title="return to article">&#8617;</a></p></li>
