@@ -8,8 +8,18 @@ $(document).ready(function(){
     var scrollIds = [];
     var headingText = [];
     headings.each(function() {
+
+        function cut(n) {
+            return function textCutter(i, text) {
+                var short = text.substr(0, n);
+                if (/^\S/.test(text.substr(n)))
+                    return short.replace(/\s+\S*$/, "");
+                return short;
+            };
+        }
+
         scrollIds.push($(this).attr('id'));
-        headingText.push($(this).text());
+        headingText.push($(this).text(cut(10)));
     });
 
     $.scrollDepth({
