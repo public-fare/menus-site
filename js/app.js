@@ -8,7 +8,7 @@ $(document).ready(function(){
     var scrollIds = [];
     var headingText = [];
     headings.each(function() {
-        scrollIds.push($(this).id);
+        scrollIds.push($(this).attr('id'));
         headingText.push($(this).text());
     });
 
@@ -17,4 +17,18 @@ $(document).ready(function(){
         userTiming: false
     });
 
+    var headingDict = new Object();
+    for (var i = 0; i < headings.length; i++) {
+        headingDict[scrollIds[i]] = headingText[i]
+    }
+
+    var newNodes = []
+    $.each(
+        headingDict,
+        function (index, el) {
+            newNodes.push('<li><a href="#' + index + '">' + el + '</a></li>');
+        }
+        );
+
+    targetEl.append(newNodes);
 });
