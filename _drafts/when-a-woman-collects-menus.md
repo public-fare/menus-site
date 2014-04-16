@@ -221,11 +221,11 @@ In our next essay, we take up some of these notions of a public research collect
         </li>
     
         <li class="footnote" id="fn:2">
-            <p>Alison Ryley, “The Prime of Miss Frank E. Buttolph: Notes Toward a Menu History of New York City,” <em>Biblion: The Bulletin of the New York Public Library</em>, Fall 1998, PAGE NUMBER ]<a href="#fnref:2" title="return to article">&#8617;</a></p>
+            <p>Alison Ryley, “The Prime of Miss Frank E. Buttolph: Notes Toward a Menu History of New York City,” <em>Biblion: The Bulletin of the New York Public Library</em>, Fall 1998, 56.<a href="#fnref:2" title="return to article">&#8617;</a></p>
         </li>
    
         <li class="footnote" id="fn:3">
-            <p>Rebecca Federman, “The Queen B: Miss Buttolph and Her Menus,” What’s On the Menu, Food For Thought, NYPL Labs blog, April 28, 2011, http://www.nypl.org/blog/2011/04/28/queen-b-miss-buttolph-and-her-menus.]<a href="#fnref:3" title="return to article">&#8617;</a></p>
+            <p>Rebecca Federman, “The Queen B: Miss Buttolph and Her Menus,” What’s On the Menu, Food For Thought, NYPL Labs blog, April 28, 2011, http://www.nypl.org/blog/2011/04/28/queen-b-miss-buttolph-and-her-menus.<a href="#fnref:3" title="return to article">&#8617;</a></p>
         </li>
          <li class="footnote" id="fn:4">
             <p>Melissa H. Cragin, P. Bryan Heidorn, Carole L. Palmer, and Linda C. Smith, "An Educational Program on Data Curation," (paper presented at the Science and Technology Section, America Library Association Conference, Washington, DC, June 2007).<a href="#fnref:4" title="return to article">&#8617;</a></p>
@@ -239,19 +239,19 @@ In our next essay, we take up some of these notions of a public research collect
             <p>Barbara Caine, "Feminist Biography and Feminist History," <em>Women's History Review</em> 3.2 (1994): 247-261.<a href="#fnref:6" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:7">
-            <p>Lepore NUMBER.<a href="#fnref:7" title="return to article">&#8617;</a></p>
+            <p>Lepore 133.<a href="#fnref:7" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:8">
             <p>Suzanne Hildenbrand, "Some Theoretical Considerations of Women in Library History," <em>The Journal of Library History</em> 18.4 (1983): 382-390.<a href="#fnref:8" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:9">
-            <p>Phyllis Dain, "Women's Studies in American Library History: Some Critical Reflections," <em>The Journal of Library History</em> 18.4 (1983): 450-463 PAGE NUMBER?. <a href="#fnref:9" title="return to article">&#8617;</a></p>
+            <p>Phyllis Dain, "Women's Studies in American Library History: Some Critical Reflections," <em>The Journal of Library History</em> 18.4 (1983): 451. <a href="#fnref:9" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:10">
-            <p>Kathleen Canning, <em>Gender History in Practice: Historical Perspectives on Bodies, Class, and Citizenship</em> (Ithaca, New York: Cornell University Press, 2006). <a href="#fnref:10" title="return to article">&#8617;</a></p>
+            <p>Kathleen Canning, <em>Gender History in Practice: Historical Perspectives on Bodies, Class, and Citizenship</em> (Ithaca, New York: Cornell University Press, 2006): 7. <a href="#fnref:10" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:11">
             <p>"Notes," <em>The Literary Collector: A Magazine of Booklore and Bibliography</em> 9-10 (1905), eds. Annie Dennis Bursch and Frederick C. Bursch: 107.<a href="#fnref:11" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:12">
             <p>See Beth Muellner, “The Empress Elisabeth of Austria and Her ‘Untidy’ Collection,” <em>Women’s Studies</em> 39 (2010): 536–561; J. Samaine Lockwood, “Shopping for the Nation: Women's China Collecting in Late-Nineteenth-Century New England,” <em>The New England Quarterly<em> 81.1 (2008): 63-90.<a href="#fnref:12" title="return to article">&#8617;</a></p>
         </li><li class="footnote" id="fn:13">
-            <p>????????<a href="#fnref:13" title="return to article">&#8617;</a></p>
+            <p>Quoted in Ryley.<a href="#fnref:13" title="return to article">&#8617;</a></p>
         </li>
         <li class="footnote" id="fn:14">
         <p>  cite: Tribune]<a href="#fnref:14" title="return to article">&#8617;</a></p>
