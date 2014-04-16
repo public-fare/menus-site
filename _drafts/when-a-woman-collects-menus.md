@@ -290,10 +290,10 @@ In our next essay, we take up some of these notions of a public research collect
             <p> Buttolph letter July 19<a href="#fnref:23" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:26">
-            <p> Dain PAGE NUMBER.<a href="#fnref:26" title="return to article">&#8617;</a></p>
+            <p> Dain 3-10.<a href="#fnref:26" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:27">
-            <p>Harry Miller Lydenberg and the New York Public Library, <em>History of the New York Public Library: Astor, Lenox, and Tilden Foundataions</em> (New York: New York Public Library, 1987).<a href="#fnref:27" title="return to article">&#8617;</a></p>
+            <p>Harry Miller Lydenberg and the New York Public Library, <em>History of the New York Public Library: Astor, Lenox, and Tilden Foundataions</em> (New York: New York Public Library, 1987): 32.<a href="#fnref:27" title="return to article">&#8617;</a></p>
             </li>
            <li class="footnote" id="fn:28">
             <p>  [cite: Chapman, 290] ???.<a href="#fnref:28" title="return to article">&#8617;</a></p></li>
