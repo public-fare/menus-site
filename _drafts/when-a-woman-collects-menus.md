@@ -140,7 +140,7 @@ Buttolph saw institutional collecting as a way of having ephemeral cultural mate
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/penn_railroad_menu.jpeg" alt="Pennsylvania Railroad Menu">
 <div class="caption">
-    <p>This is a caption.</p>
+    <p>Menu from the Pennsylvania Railroad, November 1, 1917, from the Frank E. Buttolph Menu Collection, New York Public Library.</p>
 </div>
 </div>
 
@@ -157,7 +157,7 @@ Buttolph was also invested in curatorial practices that focused on long-term pre
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/silk_backed_with_card.jpeg" alt="A silk menu with card backing">
 <div class="caption">
-    <p>This is a caption.</p>
+    <p>Mounted silk menu from dinner to Count Ferdinand De Lesseps held by Citizens of New York at Delmonico Hotel, 1880, from the Frank E. Buttolph Menu Collection, New York Public Library.</p>
 </div>
 </div>  
 
@@ -174,7 +174,7 @@ The Astor Library is central to Buttolph’s story. Though the entity formally n
 <div class="article-img">
 <img src="{{ site.s3 }}when-a-woman-collects-menus/astor_library_interior.jpeg" alt="Engraving of the Interior of the Astor Library">
 <div class="caption">
-    <p>This is a caption.</p>
+    <p>The North Room, Astor Library, Lafayette Place, New York, 1876, from the Art and Picture Collection, New York Public Library.</p>
 </div>
 </div>
 
