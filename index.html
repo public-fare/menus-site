@@ -33,9 +33,9 @@ layout: default
         <ol id="posts-list">
             {% for post in site.posts %}
                 {% unless post.featured %}
-                    {% if post.external_url %}
+                    {% if page.external_url %}
                         <li>
-                        <a href="{{ post.external_url }}" onclick="trackOutboundLink(‘{{ post.external_url }}’); return false;">{{ post.title }}</a>
+                        <a href="{{ page.external_url }}" onclick="trackOutboundLink(‘{{ page.external_url }}’); return false;">{{ post.title }}</a>
                         <span class="date-span">{{ post.date | date_to_string }}</span></li>
                     {% else %}
                         <li>
