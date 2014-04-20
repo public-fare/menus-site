@@ -5,11 +5,3 @@
 <meta name="twitter:description" content="{{ page.lede }}">
 <meta name="twitter:site" content="curatingmenus">
 <meta name="twitter:image" content="{{ page.thumbnail }}">
-
-{% for author in page.authors %}
-<meta property="http://purl.org/dc/terms/creator" content="{{ author.name}}" />
-{% endfor %}
-<meta property="http://purl.org/dc/terms/title" content="{{ page.title }}" />
-<meta property="http://purl.org/dc/terms/created" content="{{ page.pubdate }}" />
-<meta property="http://purl.org/dc/terms/description" content="{{ page.lede }}" />
-<meta property="http://purl.org/dc/terms/identifier" content="http://www.curatingmenus.org{{ page.url }}" />

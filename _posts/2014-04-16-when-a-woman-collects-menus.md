@@ -215,9 +215,14 @@ Buttolph was and is, like all humans, not fully legible. However, her collection
 In our next essay, we take up some of these notions of a public research collection as we examine the contours of the menu collection in more detail, relying on the crowd-sourced information from the <em>What’s On the Menu?</em> project and the cataloging information that Buttolph included as she herself crowd-sourced and curated the physical collection.
 </div> 
 
-
 <strong>Acknowledgements</strong><br /> 
 Thanks to the New York Public Library Manuscripts and Archives Division, especially to Susan Waide, and to the New York Public Library <em>What’s On the Menu?</em> project members, especially Dave Riordan. Thanks to Brian Vivier and Jen Guiliano for reading earlier versions of this piece.  We also appreciate the support of Martha Brogan. Finally, thanks to CLIR for creating the occasion for us to meet and for championing scholarly work in libraries. 
+
+<div vocab="http://purl.org/dc/terms/">
+<strong>Please cite as:</strong><br />
+<span property="creator">Trevor Muñoz</span> and <span property="creator">Katie Rawson</span>, “<span property="title">When a Woman Collects Menus: Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</span>,” Curating Menus, <span property="date">April 16, 2014</span>, <span property="identifier">http://www.curatingmenus.org/articles/when-a-woman-collects-menus/</span>.
+</div>
+
 
 <div class="footnotes" id="notes-when-a-woman-collects">
     <ol>
