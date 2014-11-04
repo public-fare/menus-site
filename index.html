@@ -32,26 +32,45 @@ layout: default
 
     <hr/>
 
+    <section id="data_dictionary">
+        <div class="section-head">
+            <h4><span class="label label-default">New!</span> <a href="/data_dictionary">Data Dictionary</a></h4>
+        </div>
+        <p>A reference resource for those interested in using the open data from the New York Public Library's menu transcription project.</p>
+    </section>
+
+    <hr/>
+
     <section id="backfile">
         <h4>More Posts</h4>
-        <ol id="posts-list">
+        <table class="table">
             {% for post in site.posts %}
                 {% capture outbound_link %}
                     {{ post.external_url }}
                 {% endcapture %}
                 {% unless post.featured %}
                     {% if outbound_link %}
-                        <li>
+                    <tr>
+                        <td>
+                        <div class="tabletext">
                         <a href="{{ outbound_link }}" onclick="trackOutboundLink(‘{{ outbound_link }}’); return false;">{{ post.title }}</a>
-                        <span class="date-span">{{ post.date | date: "%B %e, %Y" }}</span></li>
+                        </div>
+                        </td>
+                        <td>
+                        <span class="date-span">{{ post.date | date: "%B %e, %Y" }}</span></td>
+                    </tr>
                     {% else %}
-                        <li>
-                        <a href="{{ post.url }}">{{ post.title }}</a>
-                        <span class="date-span">{{ post.date | date: "%B %e, %Y" }}</span></li>
+                    <tr>
+                        <td>
+                        <div class="tabletext"><a href="{{ post.url }}">{{ post.title }}</a></div>
+                        </td>
+                        <td>
+                        <span class="date-span">{{ post.date | date: "%B %e, %Y" }}</span></td>
+                        </tr>
                     {% endif %}
                 {% endunless %}
             {% endfor %}
-        </ol>
+        </table>
     </section>
 
     <section id="about">
