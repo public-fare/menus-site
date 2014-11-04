@@ -1,4 +1,5 @@
 .DS_Store
+config.codekit
 _site/
 .ipynb_checkpoints
 notebooks
