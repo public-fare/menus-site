@@ -6398,8 +6398,31 @@ fieldset[disabled] .excerpt a.active {
   color: #ffffff;
   background-color: #333333;
 }
+@media (min-width: 1200px) {
+  #data_dictionary .section-head {
+    margin-left: 33.33333333%;
+  }
+}
+#data_dictionary p {
+  text-align: center;
+}
 #backfile {
   padding-top: 40px;
+}
+.table > tbody > tr:first-child > td {
+  border-top: 0;
+}
+.tabletext {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 1200px) {
+  .tabletext {
+    float: left;
+    width: 83.33333333%;
+  }
 }
 #posts-list {
   padding-left: 0;

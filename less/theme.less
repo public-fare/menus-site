@@ -204,8 +204,27 @@ blockquote {
     }
 }
 
+#data_dictionary {
+    .section-head {
+      .make-lg-column-offset(4);
+    }
+    p {
+      .text-center;
+    }
+}
+
 #backfile {
     padding-top: 40px;
+}
+
+.table > tbody > tr:first-child {
+      > td {
+        border-top: 0;
+      }
+    }
+
+.tabletext {
+  .make-lg-column(10);
 }
 
 #posts-list {
