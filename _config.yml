@@ -1,6 +1,6 @@
 name: Writing About Menus
 highlighter: pygments
 markdown: kramdown
-exclude: [lib, less, notebooks, data]
+exclude: [lib, less, notebooks]
 permalink: /articles/:title
 s3: https://s3.amazonaws.com/curatingmenus/
