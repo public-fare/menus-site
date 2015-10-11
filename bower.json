@@ -1,0 +1,24 @@
+{
+  "name": "curatingmenus.com",
+  "version": "0.2.0",
+  "homepage": "https://github.com/public-fare/menus-site",
+  "authors": [
+    "Trevor Muñoz <trevor.munoz@gmail.com>",
+    "Katie Rawson <krawson@pobox.upenn.edu>"
+  ],
+  "description": "The curatingmenus.com web site",
+  "main": "index.html",
+  "license": "CC-BY-4.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~4.0.0-alpha",
+    "bigfoot": "~2.1.3"
+  }
+}
