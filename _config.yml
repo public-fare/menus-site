@@ -3,3 +3,4 @@ highlighter: pygments
 markdown: kramdown
 exclude: [src, bower_components, node_modules]
 permalink: /articles/:title
+s3: https://s3.amazonaws.com/curatingmenus/
