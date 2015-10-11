@@ -1,0 +1,35 @@
+{
+  "name": "curatingmenus.com",
+  "version": "0.2.0",
+  "description": "The curatingmenus.com web site",
+  "main": "index.html",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/public-fare/menus-site.git"
+  },
+  "author": [
+    "Trevor Muñoz <trevor.munoz@gmail.com>",
+    "Katie Rawson <krawson@pobox.upenn.edu>"
+  ],
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/public-fare/menus-site/issues"
+  },
+  "homepage": "https://github.com/public-fare/menus-site#readme",
+  "devDependencies": {
+    "bower": "^1.5.3",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.1",
+    "gulp-util": "^3.0.6",
+    "run-sequence": "^1.1.4"
+  }
+}
