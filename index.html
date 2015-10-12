@@ -12,7 +12,7 @@ layout: default
   </div>
 
     <hr/>
-
+    <section id="highlight" class="front-page-section">
     {% for post in site.posts %}
         {% if post.featured %}
         <div class="img-left">
@@ -29,19 +29,18 @@ layout: default
         {% endif %}
     {% endfor %}
     </section>
-  <section id="highlight" class="front-page-section">
 
     <hr/>
-
+    <section id="data_dictionary" class="front-page-section">
         <div class="section-head">
             <h4><span class="label label-default">New!</span> <a href="/data_dictionary">Data Dictionary</a></h4>
         </div>
         <p>A reference resource for those interested in using the open data from the New York Public Library's menu transcription project.</p>
     </section>
-  <section id="data_dictionary" class="front-page-section">
+
 
     <hr/>
-
+    <section id="backfile" class="front-page-section">
         <h4>More Posts</h4>
         <table class="table">
             {% for post in site.posts %}
@@ -72,8 +71,7 @@ layout: default
             {% endfor %}
         </table>
     </section>
-  <section id="backfile" class="front-page-section">
-
+    <section id="about" class="front-page-section">
         <div class="about-part">
             <h4>
             <small>About</small><br />
@@ -96,19 +94,17 @@ layout: default
             <p>The <em>What's on the Menu?</em> project makes all the data from its crowdsourced transcriptions available via <a href="http://menus.nypl.org/data">bulk downloads</a> and via an <a href="http://nypl.github.io/menus-api/">application programming interface (API)</a>. The current data set includes around 400,000 data points from the transcription project and the library's metadata on the over 17,000 menus digitized so far.</p>
         </div>
     </section>
-  <section id="about" class="front-page-section">
-
+    <section id="bio" class="front-page-section">
         <div class="about-bio">
             <h4>
              <small>About</small><br />
                 The Researchers
             </h4>
-            
+
             <p><strong>Katie Rawson</strong> is the CLIR Bollinger Fellow in Library Innovation at the University of Pennsylvania, where she supports digital scholarship. She holds a PhD from the interdisciplinary Graduate Institute for the Liberal Arts at Emory University and an MA in English from the University of Mississippi. In addition to her dissertation, “Pimento Cheese and Podcasts: Producing and Consuming Stories about Food in the Contemporary U.S. South,” she has published and presented on food in Faulkner, gender in cookbooks, labor at Waffle House, and open-access publishing in the academy.</p>
             <p><strong>Trevor Muñoz</strong> is Assistant Dean for Digital Humanities Research at the University of Maryland Libraries and an Associate Director of the Maryland Institute for Technology in the Humanities (MITH). Trevor holds an MA in Digital Humanities from the Department of Digital Humanities at King's College London and a MS in Library and Information Science from the Graduate School of Library and Information Science at the University of Illinois, Urbana-Champaign. He works on developing digital research projects and services at the intersection of digital humanities centers and libraries. Trevor's research interests include electronic publishing and the curation and preservation of digital humanities research data.</p>
         </div>
     </section>
-  <section id="bio" class="front-page-section">
 
     <footer>
         <hr/>
