@@ -50,3 +50,25 @@
 
 // Bigfoot.js
 @import '../../bower_components/bigfoot/dist/bigfoot-number';
+
+body {
+  display: flex;
+  flex-flow: column;
+  min-height: 100vh;
+}
+
+footer {
+  @include make-container();
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.page-content {
+  @include make-container();
+  flex: 1;
+}
+
+.site-splash {
+  margin: auto;
+  width: 50vw;
+}
