@@ -29,7 +29,7 @@ layout: default
             {{ post.title }}
             </h3>
             <p>{{ post.lede }}</p>
-            <a href="{{ post.url }}">Read more</a>
+            <a class="btn btn-lg" href="{{ post.url }}">Read more</a>
         </div>
         {% endif %}
     {% endfor %}
@@ -43,7 +43,7 @@ layout: default
 
     <section id="backfile" class="front-page-section">
         <h4>More Posts</h4>
-        <table class="table">
+        <table class="table table-responsive posts-table">
             {% for post in site.posts %}
                 {% capture outbound_link %}
                     {{ post.external_url }}
