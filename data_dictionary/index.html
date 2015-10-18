@@ -2,521 +2,532 @@
 title: Data Dictionary | Curating Menus
 layout: default
 ---
-          <div class="row">
-          <div class="bodytext">
-          <h2>Data Dictionary</h2>
 
-          <h4 id="overview">Overview</h4>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <a class="navbar-brand" href="/">Curating Menus</a>
 
-          <p>As part of the <em>What’s on the Menu?</em> project site, the New York Public Library (NYPL) explains that "all data generated through <em>What's on the Menu?</em> is available in two ways"—through an application programming interface (with an access key provided upon request by the library) or a downloadable package of “spreadsheet exports.” Since these downloadable files are the most frictionless way to obtain the NYPL data, we will focus on describing them. The goal of this document is to supply additional documentation about the data files that isn't available elsewhere.</p>
+      <ul class="nav navbar-nav">
+        <!-- Built programmatically on load -->
+      </ul>
+    </nav>
 
-          <p>The data files are available from: <a href="http://menus.nypl.org/data">http://menus.nypl.org/data</a></p>
+    <div class="page-head">
+      <h2>Data Dictionary</h2>
+    </div>
 
-          <p>Clicking on the link labeled "latest data export in CSV format ([DATE])" should automatically start a download in most browsers. It may be necessary to right click on a link and select an option to “save” or “download” files.</p>
+    <section class="page-section">
+      <h4 id="overview">Overview</h4>
 
-          <p>The download will consist of a single compressed (zipped) tar file. To use the data, it will be necessary to unzip and untar this file. You can probably accomplish this by simply double clicking on the downloaded file. After doing so, the result will be a folder containing four csv files. These files should be named: &quot;Dish.csv&quot;, “Menu.csv”, “MenuItem.csv”, and “MenuPage.csv”.</p>
-          <p>The files can be opened in any plain-text editor or in common spreadsheet applications (Microsoft Excel, Google Sheets, etc.) though some of them&mdash;MenuItem.csv, for example&mdash;are very large files.</p>
+      <p>As part of the <em>What’s on the Menu?</em> project site, the New York Public Library (NYPL) explains that "all data generated through <em>What's on the Menu?</em> is available in two ways"—through an application programming interface (with an access key provided upon request by the library) or a downloadable package of “spreadsheet exports.” Since these downloadable files are the most frictionless way to obtain the NYPL data, we will focus on describing them. The goal of this document is to supply additional documentation about the data files that isn't available elsewhere.</p>
 
-          <h4 id="data-files-tables-models">Data Files, Database Tables, and Data Models</h4>
+      <p>The data files are available from: <a href="http://menus.nypl.org/data">http://menus.nypl.org/data</a></p>
 
-          <p>Each spreadsheet file corresponds to a table from the relational database that underlies the <em>What’s on the Menu?</em> web application. The files can be linked together by mapping shared identifiers that appear in multiple tables. (We will say more about these links below).</p>
+      <p>Clicking on the link labeled "latest data export in CSV format ([DATE])" should automatically start a download in most browsers. It may be necessary to right click on a link and select an option to “save” or “download” files.</p>
 
-          <p>Each file (representing a database table) corresponds to a data "model"—an abstraction used to group and organize data values. These data models were designed by the creators of the <em>What’s on the Menu?</em> web application and are meant to correspond to objects in the real world domain. In some cases, these correspondences are straightforward: “Dish.csv” records data stored in a database table organized according to an abstract model of a dish of food. A dish in this case has a “name” and other relevant attributes. For some of the data files, the domain object modeled needs further explanation.</p>
+      <p>The download will consist of a single compressed (zipped) tar file. To use the data, it will be necessary to unzip and untar this file. You can probably accomplish this by simply double clicking on the downloaded file. After doing so, the result will be a folder containing four csv files. These files should be named: &quot;Dish.csv&quot;, “Menu.csv”, “MenuItem.csv”, and “MenuPage.csv”.</p>
+      <p>The files can be opened in any plain-text editor or in common spreadsheet applications (Microsoft Excel, Google Sheets, etc.) though some of them&mdash;MenuItem.csv, for example&mdash;are very large files.</p>
+    </section>
 
-          <dl class="dl-horizontal">
-            <dt><strong>Dish.csv</strong></dt>
-            <dd>Information about all the dishes from all the menus transcribed by the project. In this data file, a dish is represented by a row of values. Columns identify attributes of a dish. One of these attributes is an identifier, which identifies the dish. However, the identity of a dish appears to be based on the exact form of the string labeled "name." Thus, dishes with variant orthographic forms of their names, e.g. “half chicken”, “Half Chicken” and “chicken [half]”) are treated as separate entries with different identifiers.</dd>
+    <section class="page-section">
+      <h4 id="data-files-tables-models">Data Files, Database Tables, and Data Models</h4>
 
-            <dt><strong>Menu.csv</strong></dt>
-            <dd>Information about the menus as physical objects, including historical information about their origins, uses, and formats.</dd>
+      <p>Each spreadsheet file corresponds to a table from the relational database that underlies the <em>What’s on the Menu?</em> web application. The files can be linked together by mapping shared identifiers that appear in multiple tables. (We will say more about these links below).</p>
 
-            <dt><strong>MenuItem.csv</strong></dt>
-            <dd>This is the largest data file. A "MenuItem" represents a single instance of a dish appearing somewhere on a menu page image. “MenuItem.csv” is useful as a mapping between multiple other data files/tables.</dd>
+      <p>Each file (representing a database table) corresponds to a data "model"—an abstraction used to group and organize data values. These data models were designed by the creators of the <em>What’s on the Menu?</em> web application and are meant to correspond to objects in the real world domain. In some cases, these correspondences are straightforward: “Dish.csv” records data stored in a database table organized according to an abstract model of a dish of food. A dish in this case has a “name” and other relevant attributes. For some of the data files, the domain object modeled needs further explanation.</p>
 
-            <dt><strong>MenuPage.csv</strong></dt>
-            <dd>Information about individual pages of the menus represented in "Menu.csv". Pages are modeled here as digital images produced as a result of digitization by the NYPL. Menus often have multiple pages.</dd>
-          </dl>
+      <dl class="dl-horizontal">
+        <dt><strong>Dish.csv</strong></dt>
+        <dd>Information about all the dishes from all the menus transcribed by the project. In this data file, a dish is represented by a row of values. Columns identify attributes of a dish. One of these attributes is an identifier, which identifies the dish. However, the identity of a dish appears to be based on the exact form of the string labeled "name." Thus, dishes with variant orthographic forms of their names, e.g. “half chicken”, “Half Chicken” and “chicken [half]”) are treated as separate entries with different identifiers.</dd>
 
-          <h4 id="conventions">Conventions</h4>
+        <dt><strong>Menu.csv</strong></dt>
+        <dd>Information about the menus as physical objects, including historical information about their origins, uses, and formats.</dd>
 
-          <p>In the tables below we provide information about each downloadable data file including:</p>
+        <dt><strong>MenuItem.csv</strong></dt>
+        <dd>This is the largest data file. A "MenuItem" represents a single instance of a dish appearing somewhere on a menu page image. “MenuItem.csv” is useful as a mapping between multiple other data files/tables.</dd>
 
-          <ul>
-            <li><p>a gloss of the column labels,</p></li>
-            <li><p>the datatype of values that appear in each column,</p></li>
-            <li><p>an indication of whether columns have missing data (in the form of empty values),</p></li>
-            <li><p>the source of values in that column,</p></li>
-            <li><p>plus any additional notes.</p></li>
-          </ul>
+        <dt><strong>MenuPage.csv</strong></dt>
+        <dd>Information about individual pages of the menus represented in "Menu.csv". Pages are modeled here as digital images produced as a result of digitization by the NYPL. Menus often have multiple pages.</dd>
+      </dl>
+    </section>
 
-          <p>Briefly, for clarity, we define a few of the terms used below to refer to datatypes. For (much) more detail, see the Wikipedia entry on <a href="http://en.wikipedia.org/wiki/Data_type">"Data types"</a>:</p>
+    <section class="page-section">
+      <h4 id="conventions">Conventions</h4>
 
-          <dl class="dl-horizontal">
-            <dt><strong>id</strong></dt>
-            <dd>(identifier) here means a special type of string (see below). Identifiers distinguish individual objects and can also be used to link together multiple tables. In our tables we’ve reserved the use of "id" as a data type to refer to the connecting keys (technically called “primary keys” and “foreign keys”) from database tables.</dd>
+      <p>In the tables below we provide information about each downloadable data file including:</p>
 
-            <dt><strong>integer</strong></dt>
-            <dd>A numeric data type representing the "whole" numbers.</dd>
+      <ul>
+        <li>a gloss of the column labels,</li>
+        <li>the datatype of values that appear in each column,</li>
+        <li>an indication of whether columns have missing data (in the form of empty values),</li>
+        <li>the source of values in that column,</li>
+        <li>plus any additional notes.</li>
+      </ul>
 
-            <dt><strong>float</strong></dt>
-            <dd>(floating point number) is a numeric data type that represents fractional values. In our data set these are represented as decimal values.</dd>
+      <p>Briefly, for clarity, we define a few of the terms used below to refer to datatypes. For (much) more detail, see the Wikipedia entry on <a href="http://en.wikipedia.org/wiki/Data_type">"Data types"</a>:</p>
 
-            <dt><strong>string</strong></dt>
-            <dd>A data type representing a sequence of characters. In our data set we use &quot;string&quot; to refer to sequences of alphanumeric characters.</dd>
-          </dl>
+      <dl class="dl-horizontal">
+        <dt><strong>id</strong></dt>
+        <dd>(identifier) here means a special type of string (see below). Identifiers distinguish individual objects and can also be used to link together multiple tables. In our tables we’ve reserved the use of "id" as a data type to refer to the connecting keys (technically called “primary keys” and “foreign keys”) from database tables.</dd>
 
-          <h5><em>Missing Data</em></h5>
-          <p>We note the presence of missing data points in the column &quot;missing values.&quot; However, there are also strings in the present data that point to missing information (e.g. “unknown” or “?”), which do not formally appear as null values.</p>
+        <dt><strong>integer</strong></dt>
+        <dd>A numeric data type representing the "whole" numbers.</dd>
 
-          <h5><em>Who made this data point?</em></h5>
-          <p>The data in these files comes from several different sources. We reflect this in the &quot;generated by&quot; category of the tables below. Some of the data is supplied by “volunteer transcribers,” by which we mean people who have participated in the project through the <em>What’s On the Menu?</em> site. Some of the information is generated by “web application.” This means that some of this information was automatically created as the database supporting the application was constructed and populated (e.g., various ids); some is created as the web application runs (e.g. timestamps as data values are updated). Finally, a lot of information is generated from “NYPL metadata.” This metadata comes from many places and reflects the long history of the project and the many parts of New York Public Library involved in it. Much of the data “supplied by NYPL metadata” in the menu spreadsheet is from the catalog cards made by Frank E. Buttolph in the early twentieth century.</p>
-        </div>
-        </div>
-        <div class="row">
-        <div class="tablesection">
-          <h4 id="dictionary">Detailed Data Dictionary</h4>
+        <dt><strong>float</strong></dt>
+        <dd>(floating point number) is a numeric data type that represents fractional values. In our data set these are represented as decimal values.</dd>
 
-          <div class="alert alert-info" role="alert">This information is based on our analysis of the publicly available data files. We welcome corrections and additions. Send us an email: curatingmenus [at] gmail.com. Or contact us on <a href="https://twitter.com/?status=@curatingmenus">Twitter</a></div>
+        <dt><strong>string</strong></dt>
+        <dd>A data type representing a sequence of characters. In our data set we use &quot;string&quot; to refer to sequences of alphanumeric characters.</dd>
+      </dl>
 
-          <ul class="list-inline">
-            <li><a href="#dish">Dish.csv</a></li>
-            <li><a href="#menu">Menu.csv</a></li>
-            <li><a href="#menu-item">MenuItem.csv</a></li>
-            <li><a href="#menu-page">MenuPage.csv</a></li>
-          </ul>
+      <h5><em>Missing Data</em></h5>
+      <p>We note the presence of missing data points in the column &quot;missing values.&quot; However, there are also strings in the present data that point to missing information (e.g. “unknown” or “?”), which do not formally appear as null values.</p>
 
-          <div class="tablewrap">
-            <h5><a id="dish">Dish.csv</a></h5>
-                    <!-- <p>In the downloadable data package available from <a href="http://menus.nypl.org/data">http://menus.nypl.org/data</a> dated 16 September 2014, &quot;Dish.csv&quot; contained 409,919 rows. Data is organized into 9 columns:</p> -->
-                    <table class="table table-striped table-bordered">
-                      <thead>
-                        <tr>
-                          <td>Column Label</td>
-                          <td>Gloss</td>
-                          <td>Data Type</td>
-                          <td>Missing Values?</td>
-                          <td>Generated By</td>
-                          <td>Description</td>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr>
-                          <td>id</td>
-                          <td>identifier for a dish</td>
-                          <td>id</td>
-                          <td>no</td>
-                          <td>web application</td>
-                          <td>corresponds to dish_id in MenuItem.csv</td>
-                        </tr>
-                        <tr>
-                          <td>name</td>
-                          <td>name of dish</td>
-                          <td>string</td>
-                          <td>no</td>
-                          <td>volunteer transcribers</td>
-                          <td>This value matches what the transcriber typed. Sometimes the dish name matches exactly what was printed on the original menu; however, transcribers had various punctuation and capitalization practices, and sometimes relied on contextual information provided by the layout or other items on the menu.</td>
-                        </tr>
-                        <tr>
-                          <td>description</td>
-                          <td></td>
-                          <td>n/a</td>
-                          <td>yes</td>
-                          <td>n/a</td>
-                          <td>contains no data</td>
-                        </tr>
-                        <tr>
-                          <td>menus_appeared</td>
-                          <td>total count of menus on which dish with this id appears</td>
-                          <td>integer</td>
-                          <td>no</td>
-                          <td>web application</td>
-                          <td></td>
-                        </tr>
-                        <tr>
-                          <td>times_appeared</td>
-                          <td>total count of appearances of the dish with this id across all menus</td>
-                          <td>integer</td>
-                          <td>no</td>
-                          <td>web application</td>
-                          <td></td>
-                        </tr>
-                        <tr>
-                          <td>first_appeared</td>
-                          <td>earliest year of a menu on which a dish with this id appears</td>
-                          <td>date (YYYY)</td>
-                          <td>no</td>
-                          <td>web application, based on NYPL metadata for menus</td>
-                          <td></td>
-                        </tr>
-                        <tr>
-                          <td>last_appeared</td>
-                          <td>latest year of a menu on which a dish with this id appears</td>
-                          <td>date (YYYY)</td>
-                          <td>no</td>
-                          <td>web application, based on NYPL metadata for menus</td>
-                          <td></td>
-                        </tr>
-                        <tr>
-                          <td>lowest_price</td>
-                          <td>lowest price associated with a dish with a given id </td>
-                          <td>float</td>
-                          <td>yes</td>
-                          <td>volunteer transcribers</td>
-                          <td>Some menus are in other currencies than dollars; also transcribers did not always make distinctions between dollar amounts and cent amounts leading to errors in the data.</td>
-                        </tr>
-                        <tr>
-                          <td>highest_price</td>
-                          <td>highest price associated with a dish with a given id</td>
-                          <td>float</td>
-                          <td>yes</td>
-                          <td>volunteer transcribers</td>
-                          <td></td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  </div>
+      <h5><em>Who made this data point?</em></h5>
+      <p>The data in these files comes from several different sources. We reflect this in the &quot;generated by&quot; category of the tables below. Some of the data is supplied by “volunteer transcribers,” by which we mean people who have participated in the project through the <em>What’s On the Menu?</em> site. Some of the information is generated by “web application.” This means that some of this information was automatically created as the database supporting the application was constructed and populated (e.g., various ids); some is created as the web application runs (e.g. timestamps as data values are updated). Finally, a lot of information is generated from “NYPL metadata.” This metadata comes from many places and reflects the long history of the project and the many parts of New York Public Library involved in it. Much of the data “supplied by NYPL metadata” in the menu spreadsheet is from the catalog cards made by Frank E. Buttolph in the early twentieth century.</p>
+    </section>
 
-        <div class="tablewrap">
-          <h5><a id="menu">Menu.csv</a></h5>
-          <table class="table table-striped table-bordered">
-            <thead>
-              <tr>
-                <td>Column Label</td>
-                <td>Gloss</td>
-                <td>Data Type</td>
-                <td>Missing Values?</td>
-                <td>Generated By</td>
-                <td>Description</td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>id</td>
-                <td>identifier for menu</td>
-                <td>id</td>
-                <td>no</td>
-                <td>web application</td>
-                <td>corresponds to menu_id</td>
-              </tr>
-              <tr>
-                <td>name</td>
-                <td></td>
-                <td>n/a</td>
-                <td>yes</td>
-                <td>n/a</td>
-                <td>contains no data</td>
-              </tr>
-              <tr>
-                <td>sponsor</td>
-                <td>who sponsored the meal (organizations, people, name of restaurant)</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>event</td>
-                <td>category (lunch, annual dinner)</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td>Information in this category varies widely.</td>
-              </tr>
-              <tr>
-                <td>venue</td>
-                <td>type of place (commercial, social, professional)</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td>Information in this category varies widely.</td>
-              </tr>
-              <tr>
-                <td>place</td>
-                <td>where the meal took place (often a geographic location)</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td>These vary widely (street address, cities, names of restaurants; names of a ships or train). NYPL has been crowdsourcing more precise geolocations for menus but this data is not available in these files.</td>
-              </tr>
-              <tr>
-                <td>physical_description</td>
-                <td>dimension and material description of the menu</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>occasion</td>
-                <td>occasion of the meal (holidays, anniversaries, daily)</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td>This field likely comes from Buttolph’s original organization of the menu collection.</td>
-              </tr>
-              <tr>
-                <td>notes</td>
-                <td>notes by librarians about the original material</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>call_number</td>
-                <td>call number of the menu</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>keywords</td>
-                <td></td>
-                <td>n/a</td>
-                <td>yes</td>
-                <td>n/a</td>
-                <td>contains no data</td>
-              </tr>
-              <tr>
-                <td>language</td>
-                <td></td>
-                <td>n/a</td>
-                <td>yes</td>
-                <td>n/a</td>
-                <td>contains no data</td>
-              </tr>
-              <tr>
-                <td>date</td>
-                <td>date of the menu</td>
-                <td>date (YYYY-MM-DD)</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td>contains no data</td>
-              </tr>
-              <tr>
-                <td>location</td>
-                <td>organization or business who produced the menu</td>
-                <td>string</td>
-                <td>no</td>
-                <td>NYPL metadata</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>location_type</td>
-                <td></td>
-                <td>n/a</td>
-                <td>yes</td>
-                <td>n/a</td>
-                <td>contains no data</td>
-              </tr>
-              <tr>
-                <td>currency</td>
-                <td>system of money the menu uses (dollars, etc.)</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>currency_symbol</td>
-                <td>symbol for the currency ($, etc.)</td>
-                <td>string</td>
-                <td>yes</td>
-                <td>NYPL metadata</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>status</td>
-                <td>completeness of the menu transcription (transcribed, under review, etc.)</td>
-                <td>string</td>
-                <td>no</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>page_count</td>
-                <td>how many pages the menu has</td>
-                <td>integer</td>
-                <td>no</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>dish_count</td>
-                <td>how many dishes the menu has</td>
-                <td>integer</td>
-                <td>no</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <div class="tablewrap">
-          <h5><a id="menu-item">MenuItem.csv</a></h5>
-          <table class="table table-striped table-bordered">
-            <thead>
-              <tr>
-                <td>Column Label</td>
-                <td>Gloss</td>
-                <td>Data Type</td>
-                <td>Missing Values?</td>
-                <td>Generated By</td>
-                <td>Description</td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>id</td>
-                <td>identifier for the menu item</td>
-                <td>id</td>
-                <td>no</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>menu_page_id</td>
-                <td>id of the page the menu item is on</td>
-                <td>id</td>
-                <td>no</td>
-                <td>web application</td>
-                <td>corresponds to MenuPage.csv id</td>
-              </tr>
-              <tr>
-                <td>price</td>
-                <td>first price of menu item</td>
-                <td>float</td>
-                <td>yes</td>
-                <td>volunteer transcribers</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>high_price</td>
-                <td>if the item has more than on price on a single menu, the highest price</td>
-                <td>float</td>
-                <td>yes</td>
-                <td>volunteer transcribers</td>
-                <td>If there are more than two values for price, the web application instructs volunteers to enter the lowest and highest prices rather than all values.</td>
-              </tr>
-              <tr>
-                <td>dish_id</td>
-                <td>id of the dish</td>
-                <td>id</td>
-                <td>yes</td>
-                <td>web application</td>
-                <td>corresponds to dish.csv id</td>
-              </tr>
-              <tr>
-                <td>created_at</td>
-                <td>date/time of first transcription</td>
-                <td>datetime UTC
+  <section class="page-section">
+    <h4 id="dictionary">Detailed Data Dictionary</h4>
+
+    <div class="alert" role="alert">This information is based on our analysis of the publicly available data files. We welcome corrections and additions. Send us an email: curatingmenus [at] gmail.com. Or contact us on <a href="https://twitter.com/?status=@curatingmenus">Twitter</a></div>
+
+    <ul class="list-inline">
+      <li><a href="#dish">Dish.csv</a></li>
+      <li><a href="#menu">Menu.csv</a></li>
+      <li><a href="#menu-item">MenuItem.csv</a></li>
+      <li><a href="#menu-page">MenuPage.csv</a></li>
+    </ul>
+
+    <div class="tablewrap">
+      <h5><a id="dish">Dish.csv</a></h5>
+              <!-- <p>In the downloadable data package available from <a href="http://menus.nypl.org/data">http://menus.nypl.org/data</a> dated 16 September 2014, &quot;Dish.csv&quot; contained 409,919 rows. Data is organized into 9 columns:</p> -->
+              <table class="table table-bordered dd-table">
+                <thead>
+                  <tr>
+                    <td>Column Label</td>
+                    <td>Gloss</td>
+                    <td>Data Type</td>
+                    <td>Missing Values?</td>
+                    <td>Generated By</td>
+                    <td>Description</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>id</td>
+                    <td>identifier for a dish</td>
+                    <td>id</td>
+                    <td>no</td>
+                    <td>web application</td>
+                    <td>corresponds to dish_id in MenuItem.csv</td>
+                  </tr>
+                  <tr>
+                    <td>name</td>
+                    <td>name of dish</td>
+                    <td>string</td>
+                    <td>no</td>
+                    <td>volunteer transcribers</td>
+                    <td>This value matches what the transcriber typed. Sometimes the dish name matches exactly what was printed on the original menu; however, transcribers had various punctuation and capitalization practices, and sometimes relied on contextual information provided by the layout or other items on the menu.</td>
+                  </tr>
+                  <tr>
+                    <td>description</td>
+                    <td></td>
+                    <td>n/a</td>
+                    <td>yes</td>
+                    <td>n/a</td>
+                    <td>contains no data</td>
+                  </tr>
+                  <tr>
+                    <td>menus_appeared</td>
+                    <td>total count of menus on which dish with this id appears</td>
+                    <td>integer</td>
+                    <td>no</td>
+                    <td>web application</td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td>times_appeared</td>
+                    <td>total count of appearances of the dish with this id across all menus</td>
+                    <td>integer</td>
+                    <td>no</td>
+                    <td>web application</td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td>first_appeared</td>
+                    <td>earliest year of a menu on which a dish with this id appears</td>
+                    <td>date (YYYY)</td>
+                    <td>no</td>
+                    <td>web application, based on NYPL metadata for menus</td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td>last_appeared</td>
+                    <td>latest year of a menu on which a dish with this id appears</td>
+                    <td>date (YYYY)</td>
+                    <td>no</td>
+                    <td>web application, based on NYPL metadata for menus</td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td>lowest_price</td>
+                    <td>lowest price associated with a dish with a given id </td>
+                    <td>float</td>
+                    <td>yes</td>
+                    <td>volunteer transcribers</td>
+                    <td>Some menus are in other currencies than dollars; also transcribers did not always make distinctions between dollar amounts and cent amounts leading to errors in the data.</td>
+                  </tr>
+                  <tr>
+                    <td>highest_price</td>
+                    <td>highest price associated with a dish with a given id</td>
+                    <td>float</td>
+                    <td>yes</td>
+                    <td>volunteer transcribers</td>
+                    <td></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+  <div class="tablewrap">
+    <h5><a id="menu">Menu.csv</a></h5>
+    <table class="table table-bordered dd-table">
+      <thead>
+        <tr>
+          <td>Column Label</td>
+          <td>Gloss</td>
+          <td>Data Type</td>
+          <td>Missing Values?</td>
+          <td>Generated By</td>
+          <td>Description</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>id</td>
+          <td>identifier for menu</td>
+          <td>id</td>
+          <td>no</td>
+          <td>web application</td>
+          <td>corresponds to menu_id</td>
+        </tr>
+        <tr>
+          <td>name</td>
+          <td></td>
+          <td>n/a</td>
+          <td>yes</td>
+          <td>n/a</td>
+          <td>contains no data</td>
+        </tr>
+        <tr>
+          <td>sponsor</td>
+          <td>who sponsored the meal (organizations, people, name of restaurant)</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>event</td>
+          <td>category (lunch, annual dinner)</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td>Information in this category varies widely.</td>
+        </tr>
+        <tr>
+          <td>venue</td>
+          <td>type of place (commercial, social, professional)</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td>Information in this category varies widely.</td>
+        </tr>
+        <tr>
+          <td>place</td>
+          <td>where the meal took place (often a geographic location)</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td>These vary widely (street address, cities, names of restaurants; names of a ships or train). NYPL has been crowdsourcing more precise geolocations for menus but this data is not available in these files.</td>
+        </tr>
+        <tr>
+          <td>physical_description</td>
+          <td>dimension and material description of the menu</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>occasion</td>
+          <td>occasion of the meal (holidays, anniversaries, daily)</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td>This field likely comes from Buttolph’s original organization of the menu collection.</td>
+        </tr>
+        <tr>
+          <td>notes</td>
+          <td>notes by librarians about the original material</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>call_number</td>
+          <td>call number of the menu</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>keywords</td>
+          <td></td>
+          <td>n/a</td>
+          <td>yes</td>
+          <td>n/a</td>
+          <td>contains no data</td>
+        </tr>
+        <tr>
+          <td>language</td>
+          <td></td>
+          <td>n/a</td>
+          <td>yes</td>
+          <td>n/a</td>
+          <td>contains no data</td>
+        </tr>
+        <tr>
+          <td>date</td>
+          <td>date of the menu</td>
+          <td>date (YYYY-MM-DD)</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td>contains no data</td>
+        </tr>
+        <tr>
+          <td>location</td>
+          <td>organization or business who produced the menu</td>
+          <td>string</td>
+          <td>no</td>
+          <td>NYPL metadata</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>location_type</td>
+          <td></td>
+          <td>n/a</td>
+          <td>yes</td>
+          <td>n/a</td>
+          <td>contains no data</td>
+        </tr>
+        <tr>
+          <td>currency</td>
+          <td>system of money the menu uses (dollars, etc.)</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>currency_symbol</td>
+          <td>symbol for the currency ($, etc.)</td>
+          <td>string</td>
+          <td>yes</td>
+          <td>NYPL metadata</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>status</td>
+          <td>completeness of the menu transcription (transcribed, under review, etc.)</td>
+          <td>string</td>
+          <td>no</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>page_count</td>
+          <td>how many pages the menu has</td>
+          <td>integer</td>
+          <td>no</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>dish_count</td>
+          <td>how many dishes the menu has</td>
+          <td>integer</td>
+          <td>no</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="tablewrap">
+    <h5><a id="menu-item">MenuItem.csv</a></h5>
+    <table class="table table-bordered dd-table">
+      <thead>
+        <tr>
+          <td>Column Label</td>
+          <td>Gloss</td>
+          <td>Data Type</td>
+          <td>Missing Values?</td>
+          <td>Generated By</td>
+          <td>Description</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>id</td>
+          <td>identifier for the menu item</td>
+          <td>id</td>
+          <td>no</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>menu_page_id</td>
+          <td>id of the page the menu item is on</td>
+          <td>id</td>
+          <td>no</td>
+          <td>web application</td>
+          <td>corresponds to MenuPage.csv id</td>
+        </tr>
+        <tr>
+          <td>price</td>
+          <td>first price of menu item</td>
+          <td>float</td>
+          <td>yes</td>
+          <td>volunteer transcribers</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>high_price</td>
+          <td>if the item has more than on price on a single menu, the highest price</td>
+          <td>float</td>
+          <td>yes</td>
+          <td>volunteer transcribers</td>
+          <td>If there are more than two values for price, the web application instructs volunteers to enter the lowest and highest prices rather than all values.</td>
+        </tr>
+        <tr>
+          <td>dish_id</td>
+          <td>id of the dish</td>
+          <td>id</td>
+          <td>yes</td>
+          <td>web application</td>
+          <td>corresponds to dish.csv id</td>
+        </tr>
+        <tr>
+          <td>created_at</td>
+          <td>date/time of first transcription</td>
+          <td>datetime UTC
 (YYYY-MM-DD HH:MM:SS UTC)</td>
-                <td>no</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>updated_at</td>
-                <td>date/time of the last edit to the value</td>
-                <td>datetime UTC
+          <td>no</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>updated_at</td>
+          <td>date/time of the last edit to the value</td>
+          <td>datetime UTC
 (YYYY-MM-DD HH:MM:SS UTC)</td>
-                <td>no</td>
-                <td>web application</td>
-                <td>Usually, the updated time would be the time of the review.</td>
-              </tr>
-              <tr>
-                <td>xpos</td>
-                <td>horizontal coordinate on the page for the upper left point where menu item is on the page</td>
-                <td>float</td>
-                <td>no</td>
-                <td>web application</td>
-                <td>This is where the green arrow on the What’s On The Menu? site sits to show people what to transcribe.</td>
-              </tr>
-              <tr>
-                <td>ypos</td>
-                <td>vertical coordinate on the page for the upper left point  where the menu item is on the page</td>
-                <td>float</td>
-                <td>no</td>
-                <td>web application</td>
-                <td>This is where the green arrow on the What’s On The Menu? site sits to show people what to transcribe.</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <div class="tablewrap">
-          <h5><a id="menu-page">MenuPage.csv</a></h5>
-          <table class="table table-striped table-bordered">
-            <thead>
-              <tr>
-                <td>Column Label</td>
-                <td>Gloss</td>
-                <td>Data Type</td>
-                <td>Missing Values?</td>
-                <td>Generated By</td>
-                <td>Description</td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>id</td>
-                <td>identifier for menu page</td>
-                <td>id</td>
-                <td>no</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>menu_id</td>
-                <td>identifier for menu</td>
-                <td>id</td>
-                <td>no</td>
-                <td>web application</td>
-                <td>corresponds to Menu.csv id</td>
-              </tr>
-              <tr>
-                <td>page_number</td>
-                <td>number representing sequence of page in the menu</td>
-                <td>integer</td>
-                <td>yes</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>image_id</td>
-                <td>identifier for the page image</td>
-                <td>id</td>
-                <td>no</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>full_height</td>
-                <td>height of the page image in pixels</td>
-                <td>integer</td>
-                <td>yes</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>full_width</td>
-                <td>width of the page image in pixels</td>
-                <td>integer</td>
-                <td>yes</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>uuid</td>
-                <td>universally unique identifier for the highest resolution version of the image</td>
-                <td>id</td>
-                <td>no</td>
-                <td>web application</td>
-                <td></td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-          </div><!--/tablesection-->
-          </div>
+          <td>no</td>
+          <td>web application</td>
+          <td>Usually, the updated time would be the time of the review.</td>
+        </tr>
+        <tr>
+          <td>xpos</td>
+          <td>horizontal coordinate on the page for the upper left point where menu item is on the page</td>
+          <td>float</td>
+          <td>no</td>
+          <td>web application</td>
+          <td>This is where the green arrow on the What’s On The Menu? site sits to show people what to transcribe.</td>
+        </tr>
+        <tr>
+          <td>ypos</td>
+          <td>vertical coordinate on the page for the upper left point  where the menu item is on the page</td>
+          <td>float</td>
+          <td>no</td>
+          <td>web application</td>
+          <td>This is where the green arrow on the What’s On The Menu? site sits to show people what to transcribe.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="tablewrap">
+    <h5><a id="menu-page">MenuPage.csv</a></h5>
+    <table class="table table-bordered dd-table">
+      <thead>
+        <tr>
+          <td>Column Label</td>
+          <td>Gloss</td>
+          <td>Data Type</td>
+          <td>Missing Values?</td>
+          <td>Generated By</td>
+          <td>Description</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>id</td>
+          <td>identifier for menu page</td>
+          <td>id</td>
+          <td>no</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>menu_id</td>
+          <td>identifier for menu</td>
+          <td>id</td>
+          <td>no</td>
+          <td>web application</td>
+          <td>corresponds to Menu.csv id</td>
+        </tr>
+        <tr>
+          <td>page_number</td>
+          <td>number representing sequence of page in the menu</td>
+          <td>integer</td>
+          <td>yes</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>image_id</td>
+          <td>identifier for the page image</td>
+          <td>id</td>
+          <td>no</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>full_height</td>
+          <td>height of the page image in pixels</td>
+          <td>integer</td>
+          <td>yes</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>full_width</td>
+          <td>width of the page image in pixels</td>
+          <td>integer</td>
+          <td>yes</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>uuid</td>
+          <td>universally unique identifier for the highest resolution version of the image</td>
+          <td>id</td>
+          <td>no</td>
+          <td>web application</td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
