@@ -1,6 +1,6 @@
 name: Writing About Menus
 highlighter: pygments
 markdown: kramdown
-exclude: [src, bower_components, node_modules, '*.json', 'Gemfile*', 'gulpfile.js' ]
+exclude: [src, bower_components, node_modules, '*.json', 'Gemfile*', 'gulpfile.js', 'screenshot.png' ]
 permalink: /articles/:title
 s3: https://s3.amazonaws.com/curatingmenus/
