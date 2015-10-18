@@ -21,9 +21,9 @@ layout: default
     <section id="highlight" class="front-page-section">
     {% for post in site.posts %}
         {% if post.featured %}
-        <div class="img-left">
+        <figure>
             <img src="{{ post.key_image }}">
-        </div>
+        </figure>
         <div class="excerpt">
             <h3>
             <small>Featured</small><br />
