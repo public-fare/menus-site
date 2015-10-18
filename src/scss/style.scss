@@ -304,7 +304,18 @@ footer {
   };
 
   figure {
-    transform: rotate(-12.5deg);
+    height: 0;
+    visibility: hidden;
+
+    @include media-breakpoint-up(md) {
+      height: min-content;
+      visibility: visible;
+    };
+
+    @include media-breakpoint-up(xl) {
+      transform: rotate(-12.5deg);
+      visibility: visible;
+    };
   }
 
   h4 {
