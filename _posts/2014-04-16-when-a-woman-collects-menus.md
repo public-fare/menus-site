@@ -1,5 +1,6 @@
 ---
 title: When a Woman Collects Menus
+subtitle: Sifting Stories and Histories of Frank E. Buttolph’s Research Collection
 layout: article
 authors:
  - name: Trevor Muñoz
@@ -12,22 +13,6 @@ key_image: https://s3.amazonaws.com/curatingmenus/when-a-woman-collects-menus/co
 pubdate: 2014-04-16
 featured: yes
 ---
-<div itemscope itemtype="http://schema.org/Article">
-    <h2><span itemprop="name">When a Woman Collects Menus</span><br />
-    <small itemprop="alternativeHeadline">Sifting Stories and Histories of Frank E. Buttolph’s Research Collection</small>
-    </h2>
-
-    <div class="post-metadata">
-        <ul class="post-authors">
-        {% for author in page.authors %}
-            <li><span itemprop="author">{{ author.name }}</span>, <a href="https://twitter.com/{{ author.handle}}">@{{ author.handle}}</a></li>
-        {% endfor %}
-        </ul>
-        <p itemprop="datePublished">{{ page.pubdate | date: "%B %e, %Y" }}</p>
-        <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/80x15.png" /></a></p>
-    </div>
-</div>
-
 #### Introduction {#introsection}
 {: class="section-head"}
 
