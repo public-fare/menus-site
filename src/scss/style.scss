@@ -297,6 +297,7 @@ footer {
   flex-flow: column;
   justify-content: space-around;
   overflow-x: hidden;
+  padding-bottom: 2.827rem;
 
   @include media-breakpoint-up(lg) {
     flex-flow: row;
