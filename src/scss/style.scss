@@ -95,7 +95,11 @@
 .about-bio {
 
   h4 {
-    text-align: center;
+    padding-left: 1.414rem;
+
+    @include media-breakpoint-up(md) {
+      text-align: center;
+    };
   }
 
   p {
@@ -251,9 +255,9 @@ footer {
   @include make-container();
   background-color: $dark;
   color: $gray-lightest;
-  height: 12rem;
   margin-left: 0;
   margin-right: 0;
+  min-height: 12rem;
   position: relative;
 
   a {
@@ -261,7 +265,9 @@ footer {
   }
 
   p {
-    @include media-breakpoint-up(xl) {
+    padding-top: 1.414rem;
+
+    @include media-breakpoint-up(lg) {
       bottom: 1.414rem;
       position: absolute;
       right: 1rem;
@@ -274,9 +280,13 @@ footer {
   @include make-row();
   @include section-block;
   display: flex;
-  flex-flow: row;
+  flex-flow: column;
   justify-content: space-around;
   overflow-x: hidden;
+
+  @include media-breakpoint-up(lg) {
+    flex-flow: row;
+  };
 
   figure {
     transform: rotate(-12.5deg);
@@ -333,8 +343,6 @@ header {
   color: $gray-lightest;
   font-family: 'PT Sans', sans-serif;
   font-size: 1.414rem;
-  margin-left: auto;
-  margin-right: auto;
   margin-top: 4rem;
   min-height: 16rem;
   min-width: 26.317rem;
@@ -347,6 +355,7 @@ header {
 
   @include media-breakpoint-up(xl) {
     margin-left: 34vw;
+    margin-right: auto;
     margin-top: 0;
     position: absolute;
     top: (4rem + 5.651rem);
@@ -354,7 +363,10 @@ header {
 
   p {
     margin: auto;
-    max-width: 35.375rem;
+
+    @include media-breakpoint-up(lg) {
+      max-width: 35.375rem;
+    };
   }
 }
 
@@ -384,7 +396,7 @@ header {
   text-align: center;
   visibility: hidden;
 
-  @include media-breakpoint-up(xl) {
+  @include media-breakpoint-up(md) {
     visibility: visible;
   }
 
@@ -484,9 +496,16 @@ header {
 .posts-table {
   background-color: $teal;
   color: darken($teal, 30%);
-  flex-basis: 62rem;
   font-family: 'PT Sans', sans-serif;
-  width: 62rem;
+
+  @include media-breakpoint-up(lg) {
+    flex-basis: 62rem;
+    width: 62rem;
+
+    tr:last-child>td {
+      padding-bottom: 2.827rem;
+    }
+  };
 
   a {
     color: lighten($teal, 30%);
@@ -496,10 +515,6 @@ header {
   td {
     border-color: $warm-gray;
     padding: 1.414rem;
-  }
-
-  tr:last-child>td {
-    padding-bottom: 2.827rem;
   }
 }
 
@@ -519,19 +534,22 @@ header {
   // width: 90vw;
 
   h1 {
-    align-items: center;
-    background: linear-gradient($gray, $gray) no-repeat;
-    background-position: 0 bottom;
-    background-size: 100% 1px;
     color: $muted-red;
-    font-size: 7.993rem;
+    font-size: 7.993em;
     font-weight: 700;
-    justify-content: center;
     line-height: 1;
     margin: 0;
     padding-bottom: .707rem;
     text-shadow: .05em 0 $pale-tan, -.05em 0 $pale-tan;
     text-transform: uppercase;
+
+    @include media-breakpoint-up(lg) {
+      align-items: center;
+      background: linear-gradient($gray, $gray) no-repeat;
+      background-position: 0 bottom;
+      background-size: 100% 1px;
+      justify-content: center;
+    };
   }
 }
 
