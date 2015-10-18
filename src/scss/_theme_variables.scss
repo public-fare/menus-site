@@ -224,8 +224,8 @@ $table-border-color:            $purple !default;
 //
 // For each of Bootstrap's buttons, define text, background and border color.
 
-$btn-padding-x:                  1rem;
-$btn-padding-y:                  .375rem;
+$btn-padding-x:                  1.414rem;
+$btn-padding-y:                  .5rem;
 $btn-font-weight:                normal !default;
 
 $btn-primary-color:              $white !default;
@@ -261,9 +261,9 @@ $btn-padding-x-lg:               1.25rem !default;
 $btn-padding-y-lg:               .75rem !default;
 
 // Allows for customizing button radius independently from global border radius
-$btn-border-radius:              $border-radius;
-$btn-border-radius-lg:           $border-radius-lg;
-$btn-border-radius-sm:           $border-radius-sm;
+$btn-border-radius:              0;
+$btn-border-radius-lg:           0;
+$btn-border-radius-sm:           0;
 
 
 // Forms
