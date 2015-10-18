@@ -60,8 +60,12 @@
   background-color: lighten($pale-tan, 10%);
   border-left: 1.414rem solid hsla(66, 8%, 91%, .5);
   border-right: 1.414rem solid hsla(66, 8%, 91%, .5);
-  margin: auto;
+  margin: 0;
   padding-left: 1.414rem;
+
+  @include media-breakpoint-up(xl) {
+    margin: auto;
+  };
 }
 
 @mixin running-head {
@@ -132,15 +136,22 @@ article {
 }
 
 .article-header {
-  @include make-col-span(8);
+  @include make-col-span(12);
   @include article-block;
   @include running-head;
+  @include media-breakpoint-up(lg) {
+    @include make-col-span(8);
+  };
 }
 
 .article-text {
-  @include make-col-span(8);
+  @include make-col-span(12);
   @include article-block;
   border-bottom: 1.414rem solid hsla(66, 8%, 91%, .5);
+
+  @include media-breakpoint-up(lg) {
+    @include make-col-span(8);
+  };
 
   blockquote > p {
     padding-bottom: 1.414rem;
@@ -156,7 +167,10 @@ article {
   p {
     margin-bottom: 0;
     padding-bottom: 2.827rem;
-    padding-right: 14.187rem;
+
+    @include media-breakpoint-up(lg) {
+      max-width: 35rem;
+    };
   }
 }
 
