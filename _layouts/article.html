@@ -7,19 +7,31 @@
         {% include header.html %}
     </head>
     <body data-spy="scroll" data-target="#article-navbar-collapse-1" data-offset="160px">
-        <div id="wrapper">
+      <header>
+        {% include article_nav.html %}
+      </header>
+      <main class="page-content">
+        <article itemscope itemtype="http://schema.org/Article">
+          <div class="article-header">
+            <h2><span itemprop="name">{{ page.title }}</span></h2>
+            <h3 itemprop="alternativeHeadline">{{ page.subtitle }}</h3>
 
-            {% include article_nav.html %}
-
-            <div class="bodytext">
-                {{ content }}
-
-                <hr />
-                <p>Send us an email: curatingmenus [at] gmail.com. Or contact us on <a href="https://twitter.com/?status=@curatingmenus">Twitter</a>.</p>
+            <div class="post-metadata">
+                <ul class="post-authors">
+                {% for author in page.authors %}
+                    <li><span itemprop="author">{{ author.name }}</span>, <a href="https://twitter.com/{{ author.handle}}">@{{ author.handle}}</a></li>
+                {% endfor %}
+                </ul>
+                <p itemprop="datePublished">{{ page.pubdate | date: "%B %e, %Y" }}</p>
+                <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/80x15.png" /></a></p>
             </div>
-            <div id="push"></div>
-        </div>
+          </div>
 
-            {% include footer.html %}
-            
+          <div class="article-text">
+            {{ content }}
+          </div>
+
+        </article>
+      </main>
+      {% include footer.html %}
     </body>
