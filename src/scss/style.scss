@@ -550,7 +550,7 @@ header {
 
   h1 {
     color: $muted-red;
-    font-size: 7.993em;
+    font-size: 3.998rem;
     font-weight: 700;
     line-height: 1;
     margin: 0;
@@ -558,11 +558,16 @@ header {
     text-shadow: .05em 0 $pale-tan, -.05em 0 $pale-tan;
     text-transform: uppercase;
 
+    @include media-breakpoint-up(md) {
+      font-size: 5.653em;
+    };
+
     @include media-breakpoint-up(lg) {
       align-items: center;
       background: linear-gradient($gray, $gray) no-repeat;
       background-position: 0 bottom;
       background-size: 100% 1px;
+      font-size: 7.993em;
       justify-content: center;
     };
   }
