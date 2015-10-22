@@ -10,6 +10,7 @@ var autoprefixer = require('gulp-autoprefixer');
 var uglify = require('gulp-uglify');
 var concat = require('gulp-concat');
 var rename = require('gulp-rename');
+var size = require('gulp-size');
 var runSequence = require('run-sequence');
 
 gulp.task('clean', function(callback) {
@@ -26,6 +27,7 @@ gulp.task('build:css', function() {
     .pipe(minifyCss({compatibility: 'ie8'}))
     .on('error', gutil.log)
     .pipe(rename('style.min.css'))
+    .pipe(size({'showFiles': true}))
     .pipe(gulp.dest('dist/'));
 });
 
@@ -38,6 +40,7 @@ gulp.task('build:js', function() {
     .pipe(uglify())
     .on('error', gutil.log)
     .pipe(rename('site.min.js'))
+    .pipe(size({'showFiles': true}))
     .pipe(gulp.dest('dist/js'));
 });
 
