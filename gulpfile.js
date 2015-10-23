@@ -35,6 +35,7 @@ gulp.task('build:js', function() {
   return gulp.src(['bower_components/bigfoot/dist/bigfoot.min.js',
     'bower_components/bootstrap/js/dist/util.js',
     'bower_components/bootstrap/js/dist/scrollspy.js',
+    'bower_components/bootstrap/js/dist/collapse.js',
     'src/js/**/*.js'])
     .pipe(concat('site.js'))
     .pipe(uglify())
