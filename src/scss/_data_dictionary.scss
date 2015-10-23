@@ -1,7 +1,7 @@
 .alert {
   @include center-block();
   @include alert-variant($teal, darken($teal, 30%), $gray-lightest);
-  font-family: 'PT Sans', sans-serif;
+  font-family: $font-family-accent;
   width: 35rem;
 
   a {

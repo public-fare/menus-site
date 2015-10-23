@@ -117,7 +117,7 @@
 .lede {
   background-color: hsla(205, 47, 30, .6);
   color: $gray-lightest;
-  font-family: 'PT Sans', sans-serif;
+  font-family: $font-family-accent;
   font-size: 1.414rem;
   margin-top: 4rem;
   min-height: 16rem;
@@ -178,7 +178,7 @@
 .posts-table {
   background-color: $teal;
   color: darken($teal, 30%);
-  font-family: 'PT Sans', sans-serif;
+  font-family: $font-family-accent;
 
   @include media-breakpoint-up(lg) {
     flex-basis: 62rem;

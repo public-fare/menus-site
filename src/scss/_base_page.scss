@@ -27,7 +27,7 @@
 
   h5 {
     @include center-block();
-    font-family: 'PT Sans', sans-serif;
+    font-family: $font-family-accent;
     text-align: center;
 
   }

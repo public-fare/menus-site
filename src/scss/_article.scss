@@ -54,7 +54,7 @@ article {
 
 blockquote {
   border-left: .25rem solid $blockquote-border-color;
-  font-family: 'PT Sans', sans-serif;
+  font-family: $font-family-accent;
   font-size: $blockquote-font-size;
   margin-bottom: $spacer;
   margin-left: ($spacer * 2);

@@ -25,5 +25,5 @@
 
 @mixin site-button {
   @include button-variant($gray-lightest, $teal, $teal);
-  font-family: 'PT Sans', sans-serif;
+  font-family: $font-family-accent;
 }
