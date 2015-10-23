@@ -1,0 +1,236 @@
+.about-part {
+  background-color: $gray-lightest;
+  padding: 1.414rem;
+
+  @include media-breakpoint-up(xl) {
+    flex-basis: 22rem;
+    width: 22rem;
+  };
+}
+
+.about-bio {
+
+  h4 {
+    padding-left: 1.414rem;
+
+    @include media-breakpoint-up(md) {
+      text-align: center;
+    };
+  }
+
+  p {
+    padding: 1.414rem;
+
+    @include media-breakpoint-up(xl) {
+      flex-basis: 44rem;
+      width: 44rem;
+    };
+  }
+}
+
+.excerpt {
+  @include make-col-span(5);
+
+  a {
+    @include site-button;
+    margin-top: 2.827rem;
+  }
+
+  h3 {
+    padding-bottom: 1.414rem;
+
+    small {
+      color: $muted-red;
+      display: inline-block;
+      padding-bottom: .707rem;
+      text-shadow: 0 1px 1px hsla(44, 23%, 100%, .9);
+    }
+  }
+}
+
+.front-page-section {
+  @include make-row();
+  @include section-block;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  overflow-x: hidden;
+  padding-bottom: 2.827rem;
+
+  @include media-breakpoint-up(lg) {
+    flex-flow: row;
+  };
+
+  figure {
+    height: 0;
+    visibility: hidden;
+
+    @include media-breakpoint-up(md) {
+      height: min-content;
+      visibility: visible;
+    };
+
+    @include media-breakpoint-up(xl) {
+      transform: rotate(-12.5deg);
+      visibility: visible;
+    };
+  }
+
+  h4 {
+    margin-bottom: 1.414rem;
+
+    a {
+      color: darken($teal, 30%);
+    }
+  }
+}
+
+.front-page-section:nth-child(1) {
+  display: flex;
+  flex-flow: column;
+  height: min-content;
+  padding-top: 1rem;
+
+  @include media-breakpoint-up(xl) {
+    height: 100vh;
+  };
+}
+
+.front-page-section:nth-child(2) {
+  background-color: $bright-tan;
+}
+
+.front-page-section:nth-child(3) {
+  background-color: hsla(203, 24%, 60, .6);
+  flex-flow: column;
+  text-align: center;
+}
+
+.front-page-section:nth-child(4) {
+  background-color: $warm-gray;
+}
+
+.front-page-section:nth-child(5) {
+  background-color: $purple;
+}
+
+.lede {
+  background-color: hsla(205, 47, 30, .6);
+  color: $gray-lightest;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.414rem;
+  margin-top: 4rem;
+  min-height: 16rem;
+  min-width: 26.317rem;
+  padding-bottom: 4rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 4rem;
+  text-align: left;
+  width: 60vw;
+
+  @include media-breakpoint-up(xl) {
+    margin-left: 34vw;
+    margin-right: auto;
+    margin-top: 0;
+    position: absolute;
+    top: (4rem + 5.651rem);
+  }
+
+  p {
+    margin: auto;
+
+    @include media-breakpoint-up(lg) {
+      max-width: 35.375rem;
+    };
+  }
+}
+
+.more {
+  @include make-col-span(2);
+  justify-content: center;
+  margin: auto;
+  padding-top: 5.653rem;
+  text-align: center;
+  visibility: hidden;
+
+  @include media-breakpoint-up(md) {
+    visibility: visible;
+  }
+
+  a>span {
+    border-bottom: 2px solid $teal;
+    border-right: 2px solid $teal;
+    display: inline-block;
+    height: 5.653rem;
+    //padding: $btn-padding-x;
+    transform: rotate(45deg);
+    width: 5.653rem;
+
+    &:active,
+    &:hover,
+    &:hover-focus {
+      text-decoration: none;
+    }
+  }
+}
+
+.posts-table {
+  background-color: $teal;
+  color: darken($teal, 30%);
+  font-family: 'PT Sans', sans-serif;
+
+  @include media-breakpoint-up(lg) {
+    flex-basis: 62rem;
+    width: 62rem;
+
+    tr:last-child>td {
+      padding-bottom: 2.827rem;
+    }
+  };
+
+  a {
+    color: lighten($teal, 30%);
+    font-weight: bold;
+  }
+
+  td {
+    border-color: $warm-gray;
+    padding: 1.414rem;
+  }
+}
+
+.site-splash {
+  display: flex;
+  flex-flow: column;
+  margin: auto;
+  padding-bottom: 8rem;
+  padding-top: 4rem;
+  position: relative;
+  text-align: center;
+  // width: 90vw;
+
+  h1 {
+    color: $muted-red;
+    font-size: 3.998rem;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0;
+    padding-bottom: .707rem;
+    text-shadow: .05em 0 $pale-tan, -.05em 0 $pale-tan;
+    text-transform: uppercase;
+
+    @include media-breakpoint-up(md) {
+      font-size: 5.653em;
+    };
+
+    @include media-breakpoint-up(lg) {
+      align-items: center;
+      background: linear-gradient($gray, $gray) no-repeat;
+      background-position: 0 bottom;
+      background-size: 100% 1px;
+      font-size: 7.993em;
+      justify-content: center;
+    };
+  }
+}

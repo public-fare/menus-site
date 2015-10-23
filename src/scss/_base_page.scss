@@ -1,0 +1,52 @@
+.page-content {
+  @include make-container();
+  flex: 1;
+}
+
+.page-head {
+  @include running-head;
+  @include center-block();
+}
+
+.page-section {
+  @include make-row();
+  @include section-block;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+
+  a {
+    color: darken($teal, 30%);
+  }
+
+  h4 {
+    @include center-block();
+    padding-bottom: 1.414rem;
+    text-align: center;
+  }
+
+  h5 {
+    @include center-block();
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+
+  }
+
+  p {
+    @include center-block();
+    margin-bottom: 0;
+    padding-bottom: 2.827rem;
+    width: 35rem;
+  }
+
+  ul {
+    @include center-block();
+    padding-bottom: 2.827rem;
+    width: 39rem;
+  }
+}
+
+.section-head {
+  padding-bottom: ($spacer / 2);
+  width: 100%;
+}

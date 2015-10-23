@@ -1,0 +1,80 @@
+article {
+  @include make-row();
+
+  h3 {
+    color: $teal;
+  }
+}
+
+.article-header {
+  @include make-col-span(12);
+  @include article-block;
+  @include running-head;
+  @include media-breakpoint-up(lg) {
+    @include make-col-span(8);
+  };
+}
+
+.article-text {
+  @include make-col-span(12);
+  @include article-block;
+  border-bottom: 1.414rem solid hsla(66, 8%, 91%, .5);
+
+  @include media-breakpoint-up(lg) {
+    @include make-col-span(8);
+  };
+
+  blockquote > p {
+    padding-bottom: 1.414rem;
+    padding-right: 7.093rem;
+  }
+
+  figure {
+    float: right;
+    max-width: 31rem;
+    padding-left: 1.414rem;
+  }
+
+  p {
+    margin-bottom: 0;
+    padding-bottom: 2.827rem;
+
+    @include media-breakpoint-up(lg) {
+      max-width: 35rem;
+    };
+  }
+}
+
+.bigfoot-footnote__content {
+
+  p {
+    padding-right: 1.414rem;
+  }
+}
+
+blockquote {
+  border-left: .25rem solid $blockquote-border-color;
+  font-family: 'PT Sans', sans-serif;
+  font-size: $blockquote-font-size;
+  margin-bottom: $spacer;
+  margin-left: ($spacer * 2);
+  padding: ($spacer / 2) $spacer;
+
+  p,
+  ul,
+  ol {
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.post-authors {
+  list-style: none;
+  padding-left: 0;
+}
+
+.post-metadata {
+  margin-left: ($spacer * 2);
+  padding-top: 2.827rem;
+}

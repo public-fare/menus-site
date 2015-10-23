@@ -1,0 +1,77 @@
+.alert {
+  @include center-block();
+  @include alert-variant($teal, darken($teal, 30%), $gray-lightest);
+  font-family: 'PT Sans', sans-serif;
+  width: 35rem;
+
+  a {
+    color: lighten($teal, 30%);
+  }
+}
+
+.dd-table {
+
+  thead {
+    background-color: $purple;
+    color: $gray-lightest;
+  }
+
+  tbody {
+    background-color: $gray-lightest;
+
+    tr:nth-of-type(even) {
+      background-color: hsla(203, 24%, 60, .6);
+    }
+  }
+}
+
+.dl-horizontal {
+  @include make-row();
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2.827rem 0;
+  width: 51rem;
+
+  dd {
+    @include make-col-span(9);
+    background-color: lighten($pale-tan, 10%);
+    margin-bottom: 0;
+    padding: 1.414rem;
+  }
+
+  dt {
+    @include make-col-span(2);
+    background-color: lighten($pale-tan, 10%);
+    padding: 1.414rem;
+  }
+}
+
+.list-inline {
+  padding-top: 1.414rem;
+  text-align: center;
+
+  li {
+    border-right: 1px solid darken($teal, 30%);
+    padding: .5rem 1.414rem;
+
+    a {
+      color: darken($teal, 30%);
+    }
+  }
+
+  li:last-child {
+    border-right: 0;
+  }
+}
+
+.tablewrap {
+  @include center-block();
+  padding-bottom: 2.827rem;
+  text-align: center;
+  width: 51rem;
+
+  h5 {
+    padding-bottom: 1.414rem;
+    text-align: left;
+  }
+}

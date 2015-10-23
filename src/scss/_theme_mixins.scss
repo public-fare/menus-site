@@ -1,0 +1,29 @@
+@mixin article-block {
+  background-color: lighten($pale-tan, 10%);
+  border-left: 1.414rem solid hsla(66, 8%, 91%, .5);
+  border-right: 1.414rem solid hsla(66, 8%, 91%, .5);
+  margin: 0;
+  padding-left: 1.414rem;
+
+  @include media-breakpoint-up(xl) {
+    margin: auto;
+  };
+}
+
+@mixin running-head {
+  padding-bottom: 3.998rem;
+  padding-top: 5.653rem;
+  width: max-content;
+}
+
+@mixin section-block {
+  padding-bottom: 2.827rem;
+  padding-left: 1.414rem;
+  padding-right: 1.414rem;
+  padding-top: 2.827rem;
+}
+
+@mixin site-button {
+  @include button-variant($gray-lightest, $teal, $teal);
+  font-family: 'PT Sans', sans-serif;
+}
