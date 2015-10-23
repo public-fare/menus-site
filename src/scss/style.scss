@@ -59,6 +59,7 @@
 // Theme
 @import 'theme_mixins';
 @import 'base_page';
+@import 'theme_nav';
 @import 'article';
 @import 'data_dictionary';
 @import 'front_page';
@@ -101,22 +102,4 @@ footer {
 
 header {
   @include make-row();
-}
-
-.label {
-  font-family: 'PT Sans', sans-serif;
-}
-
-.navbar-brand {
-  color: $muted-red;
-  font-family: $font-family-sans-serif;
-  letter-spacing: .088em;
-  text-transform: uppercase;
-}
-
-.navbar-default {
-  background: linear-gradient(to right, hsla(203, 24%, 17%, 1),
-                              hsla(203, 24%, 24%, 1) 10%,
-                              hsla(203, 24%, 37%, .8) 33%,
-                              hsla(203, 24%, 60%, .8));
 }

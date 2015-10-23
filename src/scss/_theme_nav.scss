@@ -1,0 +1,81 @@
+.navbar {
+  padding: 0;
+
+  button {
+    color: $muted-red;
+    padding-bottom: .707rem;
+    padding-top: .707rem;
+  }
+}
+
+.navbar-brand {
+  color: $muted-red;
+  font-family: $font-family-sans-serif;
+  letter-spacing: .088em;
+  padding-bottom: .707rem;
+  padding-left: 1.414rem;
+  padding-top: .707rem;
+  text-transform: uppercase;
+}
+
+.navbar-default {
+  background: linear-gradient(to right, hsla(203, 24%, 17%, 1),
+                              hsla(203, 24%, 24%, 1) 10%,
+                              hsla(203, 24%, 37%, .8) 33%,
+                              hsla(203, 24%, 60%, .8));
+}
+
+.inner-nav {
+  @include make-row();
+  background-color: hsla(228, 15%, 13%, .6);
+  color: $gray-lightest;
+  display: block;
+  font-family: $font-family-accent;
+  margin: 0 auto;
+  padding-bottom: 2.827rem;
+  padding-left: 1.414rem;
+  padding-top: 2.827rem;
+}
+
+.inner-nav-menu {
+  display: block;
+  list-style: none;
+  margin-bottom: 0;
+  padding-left: 0;
+
+  @include media-breakpoint-up(md) {
+    width: 20vw;
+  };
+
+  a {
+    color: $gray-lightest;
+    
+    &:active,
+    &.active,
+    &:focus,
+    &.focus,
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  li {
+    padding-bottom: .707rem;
+    padding-top: .354rem;
+
+    &:active,
+    &.active,
+    &:focus,
+    &.focus,
+    &:hover {
+      background: linear-gradient(135deg, hsla(203, 24%, 60%, .8),
+                                  hsla(206, 16%, 22%, .8) 60%);
+      color: $gray-lightest;
+      padding: .707rem;
+    }
+  }
+
+  li:nth-child(1) {
+    padding-bottom: 2.827rem;
+  }
+}
